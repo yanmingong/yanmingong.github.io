@@ -29,7 +29,7 @@ We are grateful for funding from National Science Foundation, Air Force Research
 
 - CAREER: Ubiquitous and Time-Critical Federated Learning with Cooperative Mobile Edge Networking, National Science Foundation, $509,014, 10/01/2021 - 09/30/2026, Sole PI.
 
-- Collaborative Research: CNS Core: Medium: Towards Federated Learning over 5G Mobile Devices: High Efficiency, Low Latency, and Good Privacy, National Science Foundation, $250,000, 08/01/2021 - 07/30/2025, Co-PI.
+- Collaborative Research: CNS Core: Medium: Towards Federated Learning over 5G Mobile Devices: High Efficiency, Low Latency, and Good Privacy, National Science Foundation, $250,000, 10/01/2021 - 09/30/2025, Co-PI.
 
 
 - A Flexible Testbed for Cyber Deception, Cyber Hardening, and Disinformation Research, Department of Defense, $472,921, 07/01/2021 - 06/30/2022, Co-PI.
