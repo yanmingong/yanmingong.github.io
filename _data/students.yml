@@ -7,14 +7,13 @@
 #  education2:
 #  education3:
 #  education4:
-
-
+  
 - name: Talha Khan
   photo: Talha.jpg
   info: Undergraduate student
   email: talha0128@gmail.com
   number_educ: 0
-  education1:
+  education1: Honorable Mention by Graduate Research Fellowship Program (GRFP) Fellowship
 
 - name: Erick Galicia
   photo: Erick.jpg
