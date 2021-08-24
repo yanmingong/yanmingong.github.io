@@ -10,17 +10,19 @@
   
 - name: Talha Khan
   photo: Talha.jpg
-  info: Undergraduate student, Honorable Mention by NSF GRFP Fellowship
+  info: Undergraduate student
   email: talha0128@gmail.com
-  number_educ: 0
-  education1: 
+  number_educ: 3
+  education1: Honorable Mention by NSF GRFP Fellowship
+  education2: Among 100 Interns of NASA Summer Internship Program in 2020
+  education3: Associate Product Manager at IBM
 
 - name: Erick Galicia
   photo: Erick.jpg
   info: Undergraduate student
   email: erickgalicia7@gmail.com
-  number_educ: 0
-  education1:
+  number_educ: 1
+  education1: Systems Design Engineer at AMD
 
 - name: Andy Hernandez
   photo: Andy.jpg
