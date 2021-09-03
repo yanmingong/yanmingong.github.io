@@ -20,7 +20,7 @@ Phone: (210) 458-5086<br>
 </ul>
 </div>
 
-<img src="{{ site.url }}{{ site.baseurl }}/images/teampic/gongyanmin3.jpg">
+<img src="{{ site.url }}{{ site.baseurl }}/images/teampic/gongyanmin3.jpg" class="rounded-circle" alt="Cinque Terre">
 
 <!-- <div id="profile"><img src="{{ site.url }}{{ site.baseurl }}/images/teampic/gongyanmin3.jpg"></div>
 
