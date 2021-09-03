@@ -5,20 +5,35 @@ excerpt: "Yanmin Gong at UTSA (The University of Texas at San Antonio)."
 sitemap: false
 permalink: /
 ---
-<div class="col-sm-4 clearfix">
+<!-- <div class="col-sm-4 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/gongyanmin3.jpg" class="img-responsive" width="80%" style="float: left" />
 </div>
 <div class="col-sm-8 clearfix" style="margin-top:20px; font-size:18px;">
 <ul style="overflow: hidden">
-<i>Assistant Professor<br>
+Assistant Professor<br>
 Electrical and Computer Engineering<br>
 University of Texas at San Antonio<br>
 Email: yanmin.gong@utsa.edu<br>
 Office: BSE 1.536<br>
-Phone: (210) 458-5086<br></i>
+Phone: (210) 458-5086<br>
     <br>
 </ul>
-</div>
+</div> -->
+
+<header>
+		<div id="profile"><img src="{{ site.url }}{{ site.baseurl }}/images/teampic/gongyanmin3.jpg"></div>
+
+		<div id="contact_section">
+			<p class="name">Yanmin Gong</p>
+			<p class="contact">Assistant Professor &nbsp;|&nbsp; Director of the TINS Group </p>
+			<p class="contact">Electrical and Computer Engineering</p>
+			<p class="contact">University of Texas at San Antonio</p>
+			<p class="contact"><i data-feather="map-pin" class="contact_icon"></i>BSE 1.536, San Antonio, TX 78255</p>
+			<p class="contact"><i data-feather="mail" class="contact_icon"></i>yanmin.gong@utsa.edu</p>
+			<!-- <p class="contact"><i data-feather="phone" class="contact_icon"></i>(313) 593-5274</p> -->
+				<script>feather.replace()</script>
+		</div>
+	</header>
 
 
 ### Short Bio
