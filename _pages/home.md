@@ -14,7 +14,7 @@ permalink: /
 Electrical and Computer Engineering<br>
 University of Texas at San Antonio<br>
 Email: yanmin.gong@utsa.edu<br>
-Office: BSE 1.536<br>
+Office: BSE 1.514<br>
 Phone: (210) 458-5086<br></i>
     <br>
 </ul>
