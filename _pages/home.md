@@ -31,8 +31,8 @@ Phone: (210) 458-5086<br>
 	<p class="contact"><i data-feather="map-pin" class="contact_icon"></i>BSE 1.536, San Antonio, TX 78255</p>
 	<p class="contact"><i data-feather="mail" class="contact_icon"></i>yanmin.gong@utsa.edu</p>
 	<!-- <p class="contact"><i data-feather="phone" class="contact_icon"></i>(313) 593-5274</p> -->
-		<script>feather.replace()</script>
-</div> -->
+<!-- 		<script>feather.replace()</script> -->
+<!-- </div> -->
 
 
 ### Short Bio
