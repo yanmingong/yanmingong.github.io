@@ -16,7 +16,6 @@ University of Texas at San Antonio<br>
 Email: yanmin.gong@utsa.edu<i class="fas fa-camera"></i>
 <br>
 Office: BSE 1.536<br>
-	
 Phone: (210) 458-5086<br>
     <br>
 </ul>
