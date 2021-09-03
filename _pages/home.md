@@ -15,6 +15,7 @@ Electrical and Computer Engineering<br>
 University of Texas at San Antonio<br>
 Email: yanmin.gong@utsa.edu<br>
 Office: BSE 1.536<br>
+	
 Phone: (210) 458-5086<br>
     <br>
 </ul>
@@ -46,7 +47,7 @@ My current research interests focus on security and privacy, machine learning, I
 - Distinguished TPC Member, IEEE INFOCOM, 2019
 - UT Rising STARs Award, 2019
 - President's Cup Award, Oklahoma State University, 2018
-- IEEE GLOBECOM Best Paper Award, 2017  <span class="glyphicon glyphicon-star"></span>
+- IEEE GLOBECOM Best Paper Award, 2017  <span class="glyphicon glyphicon-phone"></span>
 - Outstanding Achievement Award, University of Florida, 2012 -- 2013
 - Guanghua Scholarship for Excellent Students, Tsinghua University, 2011
 - Providence Scholarship, Tsinghua University, 2011
