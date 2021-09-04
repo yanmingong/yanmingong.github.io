@@ -22,14 +22,14 @@ Phone: (210) 458-5086<br></i>
 
 
 ### Short Bio
-Yanmin Gong is an assistant professor in the Department of Electrical and Computer Engineering at The University of Texas at San Antonio, where she founds and directs the TINS (Trustworthy and Intelligent Networked Systems) Lab. Dr. Gong is a recipient of the prestigious NSF Faculty Early Career Development Program (CAREER) Award and the NSF CISE Research Initiation Initiative (CRII) Award. She received a Ph.D. degree in electrical and computer engineering at the University of Florida, an M.S. degree in electronic engineering at Tsinghua University, and a B.E. degree in electronics and information engineering at Huazhong University of Science & Technology.
+Yanmin Gong is an assistant professor in the Department of Electrical and Computer Engineering at The University of Texas at San Antonio, where she founds and directs the TINS (Trustworthy and Intelligent Networked Systems) Lab. Dr. Gong is a recipient of the prestigious NSF Faculty Early Career Development Program (<span class="text-danger font-weight-bold">CAREER</span>) Award and the NSF CISE Research Initiation Initiative (<font color="blue">CRII</font>) Award. She received a Ph.D. degree in electrical and computer engineering at the University of Florida, an M.S. degree in electronic engineering at Tsinghua University, and a B.E. degree in electronics and information engineering at Huazhong University of Science & Technology.
 
 ### Research Interests
 My current research interests focus on security and privacy, machine learning, Internet of things, and wireless networks.
     
 
 ### Selected Honors and Awards
-- <span class="text-danger font-weight-bold">NSF CAREER Award</span>, 2021
+- NSF CAREER Award</span>, 2021
 - Top 10 Rising Stars in Networking and Communications, N2Women, 2021
 - Distinguished TPC Member, IEEE INFOCOM, 2020
 - <span class="text-danger font-weight-bold">NSF CISE CRII Award</span>, 2019
