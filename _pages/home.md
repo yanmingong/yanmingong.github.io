@@ -15,13 +15,7 @@ permalink: /
 <header>
   <h1><strong>Yanmin Gong</strong></h1>
 </header>
-<!-- Assistant Professor<br> -->
-Electrical and Computer Engineering<br>
-University of Texas at San Antonio<br>
-Office: BSE 1.514    <i class="fas fa-building"></i><br>
-Email  <i class="fas fa-envelope"></i>: yanmin DOT gong AT utsa.edu  <br> 
-  <p></p>
-<!--  <p> -->
+  <!--  <p> -->
                 <ul class="list-inline list-social-icons my-0 text-center text-dark h5">
                     <li class="list-inline-item my-0 py-0 px-1">
                         <a target="_blank" href="https://scholar.google.com/citations?user=o3BGIEMAAAAJ&hl=en" class="">
@@ -60,6 +54,13 @@ Email  <i class="fas fa-envelope"></i>: yanmin DOT gong AT utsa.edu  <br>
                     </li>
                 </ul>
 <!--             </p>   -->
+<!-- Assistant Professor<br> -->
+Electrical and Computer Engineering<br>
+University of Texas at San Antonio<br>
+Office: BSE 1.514    <i class="fas fa-building"></i><br>
+Email  <i class="fas fa-envelope"></i>: yanmin DOT gong AT utsa.edu  <br> 
+  <p></p>
+
   <br>
 <!--   </i> -->
 </ul>
