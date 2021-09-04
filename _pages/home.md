@@ -12,12 +12,12 @@ permalink: /
 <div class="col-sm-8 clearfix" style="margin-top:20px; font-size:18px;">
 <ul style="overflow: hidden">
 <!-- <i> -->
-Assistant Professor<br>
+<!-- Assistant Professor<br> -->
 Electrical and Computer Engineering<br>
 University of Texas at San Antonio<br>
-Email: yanmin.gong@utsa.edu<br>
 Office: BSE 1.514<br>
-Phone: (210) 458-5086<br>
+<i class="fas fa-envelope"></i>Email: yanmin.gong@utsa.edu<br>
+<i class="fas fa-phone"></i>Phone: (210) 458-5086<br>
   <br>
 <!--   </i> -->
 </ul>
