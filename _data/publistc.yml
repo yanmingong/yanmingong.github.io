@@ -5,7 +5,9 @@
     R Hu,  Y Gong, Y Guo
   link:
     url: 
-    display: "Federated Learning with Sparsification-Amplified Privacy and Adaptive Optimization"
+    display: "<span class="font-weight-bolder text-info publication-title">
+                Federated Learning with Sparsification-Amplified Privacy and Adaptive Optimization
+            </span>"
   highlight: 0
  
 - title: Proceedings of the 54th Hawaii International Conference on System Sciences 2021.
