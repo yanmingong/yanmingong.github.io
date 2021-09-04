@@ -29,15 +29,15 @@ My current research interests focus on security and privacy, machine learning, I
     
 
 ### Selected Honors and Awards
-- <a style="color:#dd3545"> NSF CAREER Award</a>, 2021
+- <span class="text-danger font-weight-bold">NSF CAREER Award</span>, 2021
 - Top 10 Rising Stars in Networking and Communications, N2Women, 2021
 - Distinguished TPC Member, IEEE INFOCOM, 2020
 - NSF CISE CRII Award, 2019
 - UT Rising STARs Award, 2019
 - President's Cup Award, Oklahoma State University, 2018
 - <span class="text-danger font-weight-bold">Best Paper Award</span> at IEEE GLOBECOM 2017
-- Outstanding Achievement Award, University of Florida, 2012 -- 2013
-- Guanghua Scholarship for Excellent Students, Tsinghua University, 2011
-- Providence Scholarship, Tsinghua University, 2011
-- Outstanding Graduate Award, Huazhong University of Science and Technology, 2009
-- National Scholarship, Ministry of Education of China, 2008
+<!-- - Outstanding Achievement Award, University of Florida, 2012 -- 2013 -->
+<!-- - Guanghua Scholarship for Excellent Students, Tsinghua University, 2011 -->
+<!-- - Providence Scholarship, Tsinghua University, 2011 -->
+<!-- - Outstanding Graduate Award, Huazhong University of Science and Technology, 2009 -->
+<!-- - National Scholarship, Ministry of Education of China, 2008 -->
