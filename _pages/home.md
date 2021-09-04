@@ -30,7 +30,7 @@ My current research interests focus on security and privacy, machine learning, I
 
 ### Selected Honors and Awards
 - NSF CAREER Award, 2021
-- Rising Star in Networking and Communications, N2Women, 2021
+- Top 10 Rising Stars in Networking and Communications, N2Women, 2021
 - Distinguished TPC Member, IEEE INFOCOM, 2020
 - NSF CISE CRII Award, 2019
 - UT Rising STARs Award, 2019
