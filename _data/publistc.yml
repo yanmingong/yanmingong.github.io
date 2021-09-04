@@ -1,4 +1,4 @@
-- title: IJCAI 2021, Montreal-themed Virtual Reality, Aug. 21 - 26, 2021. 
+- title: "IJCAI 2021, Montreal-themed Virtual Reality, Aug. 21 - 26, 2021. (Acceptance ratio: 13.9%)" 
   image: rui_IoTJ.png
   description: This work jointly investigates two ciritical concerns of federated learning, privacy and communication efficiency, and utilizes sparsification as a tool to achieve differential privacy and communication efficiency at the same time. To help reduce the privacy cost, we also integrates acceleration tecniques to offset the negative impact of sparsification on convergence rate.  
   authors:
@@ -109,7 +109,7 @@
     display: "Stochastic ADMM Based Distributed Machine Learning with Differential Privacy"
   highlight: 0
 
-- title: IEEE CNS, Beijing, China, May 30 - June 1, 2018. <span class="badge bg-primary">Acceptance Ratio: 27.8%</span>
+- title: "IEEE CNS, Beijing, China, May 30 - June 1, 2018. Acceptance Ratio: 27.8%"
   image: SCAUweb.jpg
   description:
   authors:
