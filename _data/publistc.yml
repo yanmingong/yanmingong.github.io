@@ -1,14 +1,12 @@
 - title: "IJCAI 2021, Montreal-themed Virtual Reality, Aug. 21 - 26, 2021. (Acceptance Ratio: 13.9%)"
-  image: rui_globecom19.jpg
+  image: rui_IoTJ.png
   description:
   authors:
     R Hu,  Y Gong, Y Guo
   link:
     url: 
-    display: "<span class="font-weight-bolder text-info publication-title">
-                Federated Learning with Sparsification-Amplified Privacy and Adaptive Optimization
-            </span>"
-  highlight: 0
+    display: "Federated Learning with Sparsification-Amplified Privacy and Adaptive Optimization"
+  highlight: 1
  
 - title: Proceedings of the 54th Hawaii International Conference on System Sciences 2021.
   image: SCAUweb.jpg
