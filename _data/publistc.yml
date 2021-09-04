@@ -1,4 +1,4 @@
-- title: "IJCAI 2021, Montreal-themed Virtual Reality, Aug. 21 - 26, 2021. <span class="badge bg-primary">Acceptance Ratio: 13.9%</span>"
+- title: IJCAI 2021, Montreal-themed Virtual Reality, Aug. 21 - 26, 2021. <span class="badge bg-primary">Acceptance Ratio: 13.9%</span>
   image: rui_IoTJ.png
   description: This work jointly investigates two ciritical concerns of federated learning, privacy and communication efficiency, and utilizes sparsification as a tool to achieve differential privacy and communication efficiency at the same time. To help reduce the privacy cost, we also integrates acceleration tecniques to offset the negative impact of sparsification on convergence rate.  
   authors:
@@ -99,7 +99,7 @@
     display: "Dynamic Cache Placement, Node Association, and Power Allocation in Fog Aided Networks"
   highlight: 0
 
-- title: "EAI SecureComm, Orlando, Oct. 23-25, 2019. (Acceptance Ratio: 25.5%)"
+- title: EAI SecureComm, Orlando, Oct. 23-25, 2019. <span class="badge bg-primary">Acceptance Ratio: 25.5%</span>
   image: SCAUweb.jpg
   description:
   authors:
@@ -109,7 +109,7 @@
     display: "Stochastic ADMM Based Distributed Machine Learning with Differential Privacy"
   highlight: 0
 
-- title: "IEEE CNS, Beijing, China, May 30 - June 1, 2018. (Acceptance Ratio: 27.8%)"
+- title: IEEE CNS, Beijing, China, May 30 - June 1, 2018. <span class="badge bg-primary">Acceptance Ratio: 27.8%</span>
   image: SCAUweb.jpg
   description:
   authors:
@@ -150,7 +150,7 @@
     display: "Primary Users' Operational Privacy Preservation via Data-Driven Optimization **[Best Paper Award]**"
   highlight: 0
 
-- title: "IEEE CNS, Las Vegas, NV, October 9-11, 2017. (Acceptance Ratio: 29.9%)"
+- title: IEEE CNS, Las Vegas, NV, October 9-11, 2017. <span class="badge bg-primary">Acceptance Ratio: 29.9%</span>
   image: SCAUweb.jpg
   description:
   authors:
