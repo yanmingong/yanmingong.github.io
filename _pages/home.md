@@ -27,11 +27,11 @@ Email: yanmin.gong@utsa.edu <i class="fas fa-envelope"></i> <br>
                             <span class="ai ai-google-scholar text-dark"></span>
                         </a>
                     </li>
-                    <li class="list-inline-item my-0 py-0 px-1">
+<!--                     <li class="list-inline-item my-0 py-0 px-1">
                         <a target="_blank" href="https://dblp.org/pid/115/4772.html" class="">
                             <span class="ai ai-dblp text-dark"></span>
                         </a>
-                    </li>
+                    </li> -->
                     <li class="list-inline-item my-0 py-0 px-1">
                         <a target="_blank" href="https://www.researchgate.net/profile/Yanmin-Gong-2" class="">
                             <span class="ai ai-researchgate text-dark"></span>
