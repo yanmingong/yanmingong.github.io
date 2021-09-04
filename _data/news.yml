@@ -1,11 +1,11 @@
 - date: Jul. 2021
-  headline: "NSF awarded our medium project on efficient and privacy-preserving learning over 5G mobile devices. This is a joint project among University of Florida, Univeristy of Houston, and UT San Antonio. Thank you, NSF!"
+  headline: "NSF awarded our medium project on efficient and privacy-preserving learning over 5G mobile devices. Thank you, NSF!"
   
 - date: Jun. 2021
   headline: "I am selected as one of the <strong>Top 10 Rising Stars in Networking and Communications for 2021</strong> by N2Women!"
   
 - date: May 2021
-  headline: "I received the CAREER Award from National Science Foundation!"
+  headline: "I received the <span style="color: #ff0000;">CAREER Award</span> from National Science Foundation!"
 
 - date: Apr. 2021
   headline: "Our paper <a href='https://arxiv.org/abs/2008.01558'>Federated Learning with Sparsification-Amplified Privacy and Adaptive Optimization</a> has been accepted by IJCAI 2021. Congratulations, Rui!
@@ -16,7 +16,7 @@
   mainbody: 
 
 - date: Mar. 2021
-  headline: "Our project 'A Flexible Testbed for Cyber Deception, Cyber Hardening, and Disinformation Research' has been recommended for award by Department of Defense! "
+  headline: "Our project 'A Flexible Testbed for Cyber Deception, Cyber Hardening, and Disinformation Research' has been award by Department of Defense! "
   
 - date: Feb., 2021
   headline: "I am elevated to IEEE Senior Member!"
