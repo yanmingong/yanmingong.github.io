@@ -8,7 +8,7 @@ permalink: /
 <div class="col-sm-4 clearfix">
 <!--   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/gongyanmin3.jpg" class="img-responsive" width="80%" style="float: left" /> -->
   <img class="img-fluid d-block mx-auto" src="{{ site.url }}{{ site.baseurl }}/images/teampic/gongyanmin4.jpg" style="width: 200px; height: 200px; border-radius: 50%; float: left;" alt="Dr. Yanmin Gong">
-                        <a target="_blank" href="https://scholar.google.com/citations?user=o3BGIEMAAAAJ&hl=en" class="">
+                        <a target="_blank" href="https://scholar.google.com/citations?user=o3BGIEMAAAAJ&hl=en" class="" style="width: 20px; margin: 0 auto;">
                             <span class="ai ai-google-scholar text-dark"></span>
                         </a>
                         <a target="_blank" href="https://www.researchgate.net/profile/Yanmin-Gong-2" class="">
@@ -44,11 +44,6 @@ Email: yanmin DOT gong AT utsa.edu <i class="fas fa-envelope"></i><br>
                             <span class="ai ai-google-scholar text-dark"></span>
                         </a>
                     </li>
-<!--                     <li class="list-inline-item my-0 py-0 px-1">
-                        <a target="_blank" href="https://dblp.org/pid/115/4772.html" class="">
-                            <span class="ai ai-dblp text-dark"></span>
-                        </a>
-                    </li> -->
                     <li class="list-inline-item my-0 py-0 px-1">
                         <a target="_blank" href="https://www.researchgate.net/profile/Yanmin-Gong-2" class="">
                             <span class="ai ai-researchgate text-dark"></span>
@@ -64,17 +59,23 @@ Email: yanmin DOT gong AT utsa.edu <i class="fas fa-envelope"></i><br>
                             <i class="fab fa-linkedin-in text-dark"></i>
                         </a>
                     </li>
-<!--                     <li class="list-inline-item my-0 py-0 px-1">
-                        <a target="_blank" href="https://www.github.com/joannacss" class="">
-                            <i class="fab fa-github text-dark"></i>
-                        </a>
-                    </li> -->
+
                     <li class="list-inline-item my-0 py-0 px-1">
                         <a target="_blank" href="https://orcid.org/0000-0002-1761-2834" class="">
                             <i class="ai ai-orcid text-dark"></i>
                         </a>
                     </li>
                 </ul> -->
+  <!--                     <li class="list-inline-item my-0 py-0 px-1">
+                        <a target="_blank" href="https://dblp.org/pid/115/4772.html" class="">
+                            <span class="ai ai-dblp text-dark"></span>
+                        </a>
+                    </li> -->
+ <!--                     <li class="list-inline-item my-0 py-0 px-1">
+                        <a target="_blank" href="https://www.github.com/joannacss" class="">
+                            <i class="fab fa-github text-dark"></i>
+                        </a>
+                    </li> -->
   <br>
 <!--   </i> -->
 </ul>
