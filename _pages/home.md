@@ -23,7 +23,6 @@ permalink: /
                         <a target="_blank" href="https://orcid.org/0000-0002-1761-2834" class="">
                             <i class="ai ai-orcid text-dark"></i>
                         </a>
-<!--             </p>   -->
 </div>
 <div class="col-sm-8 clearfix" style="margin-top:20px; font-size:18px;">
 <ul style="overflow: hidden">
