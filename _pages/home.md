@@ -19,16 +19,58 @@ permalink: /
 Electrical and Computer Engineering<br>
 University of Texas at San Antonio<br>
 Office: BSE 1.514<br>
-<i class="fas fa-envelope"></i>Email: yanmin.gong@utsa.edu<br>
-<i class="fas fa-phone"></i>Phone: (210) 458-5086<br>
-  <br>
+Email: yanmin.gong@utsa.edu<br>
+ <p>
+                <ul class="list-inline list-social-icons my-0 text-center text-dark h5">
+                    <li class="list-inline-item my-0 py-0 px-1">
+                        <a target="_blank" href="https://scholar.google.com/citations?user=mkGmYyAAAAAJ" class="">
+                            <span class="ai ai-google-scholar text-dark"></span>
+                        </a>
+                    </li>
+                    <li class="list-inline-item my-0 py-0 px-1">
+                        <a target="_blank" href="https://dblp.org/pid/115/4772.html" class="">
+                            <span class="ai ai-dblp text-dark"></span>
+                        </a>
+                    </li>
+                    <li class="list-inline-item my-0 py-0 px-1">
+                        <a target="_blank" href="http://lattes.cnpq.br/3895954651968855" class="">
+                            <span class="ai ai-lattes text-dark"></span>
+                        </a>
+                    </li>
+                    <li class="list-inline-item my-0 py-0 px-1">
+                        <a target="_blank" href="https://www.researchgate.net/profile/Joanna_Cecilia_Da_Silva_Santos" class="">
+                            <span class="ai ai-researchgate text-dark"></span>
+                        </a>
+                    </li>
+                    <li class="list-inline-item my-0 py-0 px-1">
+                        <a target="_blank" href="https://twitter.com/joannacss" class="">
+                            <i class="fab fa-twitter text-dark"></i>
+                        </a>
+                    </li>
+                    <li class="list-inline-item my-0 py-0 px-1">
+                        <a target="_blank" href="https://www.linkedin.com/in/joannacss" class="">
+                            <i class="fab fa-linkedin-in text-dark"></i>
+                        </a>
+                    </li>
+                    <li class="list-inline-item my-0 py-0 px-1">
+                        <a target="_blank" href="https://www.github.com/joannacss" class="">
+                            <i class="fab fa-github text-dark"></i>
+                        </a>
+                    </li>
+                    <li class="list-inline-item my-0 py-0 px-1">
+                        <a target="_blank" href="https://orcid.org/0000-0001-8743-2516" class="">
+                            <i class="ai ai-orcid text-dark"></i>
+                        </a>
+                    </li>
+                </ul>
+            </p>  <br>
 <!--   </i> -->
 </ul>
 </div>
 
 
 ### Short Bio
-Yanmin Gong is an assistant professor in the Department of Electrical and Computer Engineering at The University of Texas at San Antonio, where she directs the [Trustworthy and Intelligent Networked Systems (TINS) Lab](https://yanmingong.github.io/research/). She is a recipient of the prestigious **NSF CAREER Award** and **NSF CRII Award**. She received a Ph.D. degree in electrical and computer engineering at the University of Florida, an M.S. degree in electronic engineering at Tsinghua University, and a B.E. degree in electronics and information engineering at Huazhong University of Science & Technology.
+Yanmin Gong is an assistant professor in the Department of Electrical and Computer Engineering at The University of Texas at San Antonio, where she directs the [Trustworthy and Intelligent Networked Systems (TINS) Lab](https://yanmingong.github.io/research/). She is a recipient of the prestigious **<strong>NSF CAREER Award</strong>** and **NSF CRII Award**. She received a Ph.D. degree in electrical and computer engineering at the University of Florida, an M.S. degree in electronic engineering at Tsinghua University, and a B.E. degree in electronics and information engineering at Huazhong University of Science & Technology.
 
 ### Research Interests
 My current research interests focus on security and privacy, machine learning, Internet of things, and wireless networks.
