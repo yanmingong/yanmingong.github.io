@@ -1,4 +1,4 @@
-- title: IEEE GLOBECOM, Taipei, Taiwan, Dec. 7-11, 2020. <span class="badge bg-primary">Acceptance ratio：40%</span>
+- title: IEEE GLOBECOM, Taipei, Taiwan, Dec. 7-11, 2020. 
   image: SCAUweb.jpg
   description:
   authors:
@@ -8,7 +8,7 @@
     display: "Geo-Indistinguishability for Crowdsourced-Based Radio Environment Map Construction"
   highlight: 0
 
-- title: IEEE GLOBECOM, Taipei, Taiwan, Dec. 7-11, 2020. <span class="badge bg-secondary">Acceptance ratio：40%</span>
+- title: IEEE GLOBECOM, Taipei, Taiwan, Dec. 7-11, 2020. 
   image: SCAUweb.jpg
   description:
   authors:
@@ -19,7 +19,7 @@
   highlight: 0
 
 
-- title: IEEE GLOBECOM, Taipei, Taiwan, Dec. 7-11, 2020. <span class="badge bg-success">Acceptance ratio：40%</span>
+- title: IEEE GLOBECOM, Taipei, Taiwan, Dec. 7-11, 2020. 
   image: gao_globecom2.png
   description: Recent studies show that graph-based machine learning models are especially vulnerable to adversarial perturbations due to the non i.i.d nature of graph data. By adding or deleting a small number of edges in the graph, adversaries could greatly change the graph label predicted by a graph classification model. In this work, we propose to build a smoothed graph classification model with certified robustness guarantee. 
   authors:
