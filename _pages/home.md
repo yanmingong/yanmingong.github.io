@@ -38,46 +38,7 @@ University of Texas at San Antonio<br>
 Office: BSE 1.514    <i class="fas fa-building"></i><br>
 Email: yanmin DOT gong AT utsa.edu <i class="fas fa-envelope"></i><br> 
   <p></p>
-<!--                 <ul class="list-inline list-social-icons my-0 text-center text-dark h5">
-                    <li class="list-inline-item my-0 py-0 px-1">
-                        <a target="_blank" href="https://scholar.google.com/citations?user=o3BGIEMAAAAJ&hl=en" class="">
-                            <span class="ai ai-google-scholar text-dark"></span>
-                        </a>
-                    </li>
-                    <li class="list-inline-item my-0 py-0 px-1">
-                        <a target="_blank" href="https://www.researchgate.net/profile/Yanmin-Gong-2" class="">
-                            <span class="ai ai-researchgate text-dark"></span>
-                        </a>
-                    </li>
-                    <li class="list-inline-item my-0 py-0 px-1">
-                        <a target="_blank" href="https://twitter.com/Emily__Gong" class="">
-                            <i class="fab fa-twitter text-dark"></i>
-                        </a>
-                    </li>
-                    <li class="list-inline-item my-0 py-0 px-1">
-                        <a target="_blank" href="https://www.linkedin.com/in/yanmin-gong-b1b62824/" class="">
-                            <i class="fab fa-linkedin-in text-dark"></i>
-                        </a>
-                    </li>
-
-                    <li class="list-inline-item my-0 py-0 px-1">
-                        <a target="_blank" href="https://orcid.org/0000-0002-1761-2834" class="">
-                            <i class="ai ai-orcid text-dark"></i>
-                        </a>
-                    </li>
-                </ul> -->
-  <!--                     <li class="list-inline-item my-0 py-0 px-1">
-                        <a target="_blank" href="https://dblp.org/pid/115/4772.html" class="">
-                            <span class="ai ai-dblp text-dark"></span>
-                        </a>
-                    </li> -->
- <!--                     <li class="list-inline-item my-0 py-0 px-1">
-                        <a target="_blank" href="https://www.github.com/joannacss" class="">
-                            <i class="fab fa-github text-dark"></i>
-                        </a>
-                    </li> -->
   <br>
-<!--   </i> -->
 </ul>
 </div>
 
