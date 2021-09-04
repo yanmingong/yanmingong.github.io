@@ -1,6 +1,6 @@
 - title: "IJCAI 2021, Montreal-themed Virtual Reality, Aug. 21 - 26, 2021. (Acceptance Ratio: 13.9%)"
   image: rui_IoTJ.png
-  description:
+  description: This work jointly investigates two ciritical concerns of federated learning, privacy and communication efficiency, and utilizes sparsification as a tool to achieve differential privacy and communication efficiency at the same time. To help reduce the privacy cost, we also integrates acceleration tecniques to offset the negative impact of sparsification on convergence rate.  
   authors:
     R Hu,  Y Gong, Y Guo
   link:
@@ -77,7 +77,7 @@
   link:
     url: 09013539.pdf
     display: "Targeted Poisoning Attacks on Social Recommender Systems"
-  highlight: 1
+  highlight: 0
 
 - title: IEEE GLOBECOM, Hawaii, Dec. 9-13, 2019. 
   image: SCAUweb.jpg
