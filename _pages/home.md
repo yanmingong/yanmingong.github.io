@@ -35,7 +35,7 @@ My current research interests focus on security and privacy, machine learning, I
 - NSF CISE CRII Award, 2019
 - UT Rising STARs Award, 2019
 - President's Cup Award, Oklahoma State University, 2018
-- IEEE GLOBECOM Best Paper Award, 2017
+- <span class="text-danger font-weight-bold">Best Paper Award</span> at IEEE GLOBECOM 2017
 - Outstanding Achievement Award, University of Florida, 2012 -- 2013
 - Guanghua Scholarship for Excellent Students, Tsinghua University, 2011
 - Providence Scholarship, Tsinghua University, 2011
