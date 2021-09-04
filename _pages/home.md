@@ -7,7 +7,7 @@ permalink: /
 ---
 <div class="col-sm-4 clearfix">
 <!--   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/gongyanmin3.jpg" class="img-responsive" width="80%" style="float: left" /> -->
-  <img class="img-fluid d-block mx-auto" src="images/teampic/gongyanmin4.jpg" style="width: 200px; height: 200px; border-radius: 50%; float: left;" alt="Dr. Yanmin Gong">
+  <img class="img-fluid d-block mx-auto" src="{{ site.url }}{{ site.baseurl }}/images/teampic/gongyanmin4.jpg" style="width: 200px; height: 200px; border-radius: 50%; float: left;" alt="Dr. Yanmin Gong">
 </div>
 <div class="col-sm-8 clearfix" style="margin-top:20px; font-size:18px;">
 <ul style="overflow: hidden">
