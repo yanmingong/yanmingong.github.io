@@ -1,4 +1,4 @@
-- title: "IJCAI 2021, Montreal-themed Virtual Reality, Aug. 21 - 26, 2021. (Acceptance Ratio: 13.9%)"
+- title: "IJCAI 2021, Montreal-themed Virtual Reality, Aug. 21 - 26, 2021. <span class="badge bg-primary">Acceptance Ratio: 13.9%</span>"
   image: rui_IoTJ.png
   description: This work jointly investigates two ciritical concerns of federated learning, privacy and communication efficiency, and utilizes sparsification as a tool to achieve differential privacy and communication efficiency at the same time. To help reduce the privacy cost, we also integrates acceleration tecniques to offset the negative impact of sparsification on convergence rate.  
   authors:
