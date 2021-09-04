@@ -8,8 +8,9 @@
   headline: "I received the CAREER Award from National Science Foundation!"
 
 - date: April 30, 2021
-  headline: "We have one paper accepted by IJCAI 2021. Congratulations to Rui! "
-  
+  headline: "Our paper [Federated Learning with Sparsification-Amplified Privacy and Adaptive Optimization](https://arxiv.org/abs/2008.01558) has been accepted by IJCAI 2021. Congratulations, Rui!
+  "
+  mainbody: 
 - date: Apr. 2021
   headline: "I am invited to serve on **INFOCOM 2022** TPC! "
   mainbody: 
