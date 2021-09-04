@@ -53,10 +53,10 @@ Email: yanmin.gong@utsa.edu<br>
                         </a>
                     </li> -->
                     <li class="list-inline-item my-0 py-0 px-1">
-<!--                         <a target="_blank" href="https://orcid.org/0000-0001-8743-2516" class="">
+<!--                         <a target="_blank" href="https://orcid.org/0000-0002-1761-2834" class="">
                             <i class="ai ai-orcid text-dark"></i>
                         </a> -->
-                      <div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0002-1761-2834" href="https://orcid.org/0000-0002-1761-2834" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">https://orcid.org/0000-0002-1761-2834</a></div>
+<!--                       <div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0002-1761-2834" href="https://orcid.org/0000-0002-1761-2834" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">https://orcid.org/0000-0002-1761-2834</a></div> -->
                     </li>
                 </ul>
             </p>  <br>
