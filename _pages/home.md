@@ -32,7 +32,7 @@ My current research interests focus on security and privacy, machine learning, I
 - <span class="text-danger font-weight-bold">NSF CAREER Award</span>, 2021
 - Top 10 Rising Stars in Networking and Communications, N2Women, 2021
 - Distinguished TPC Member, IEEE INFOCOM, 2020
-- NSF CISE CRII Award, 2019
+- <span class="text-danger font-weight-bold">NSF CISE CRII Award</span>, 2019
 - UT Rising STARs Award, 2019
 - President's Cup Award, Oklahoma State University, 2018
 - <span class="text-danger font-weight-bold">Best Paper Award</span> at IEEE GLOBECOM 2017
