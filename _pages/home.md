@@ -22,20 +22,20 @@ Phone: (210) 458-5086<br></i>
 
 
 ### Short Bio
-Yanmin Gong is an assistant professor in the Department of Electrical and Computer Engineering at The University of Texas at San Antonio, where she founds and directs the TINS (Trustworthy and Intelligent Networked Systems) Lab. Dr. Gong is a recipient of the prestigious NSF Faculty Early Career Development Program (<span class="text-danger font-weight-bold">CAREER</span>) Award and the NSF CISE Research Initiation Initiative (<font color="blue">CRII</font>) Award. She received a Ph.D. degree in electrical and computer engineering at the University of Florida, an M.S. degree in electronic engineering at Tsinghua University, and a B.E. degree in electronics and information engineering at Huazhong University of Science & Technology.
+Yanmin Gong is an assistant professor in the Department of Electrical and Computer Engineering at The University of Texas at San Antonio, where she founds and directs the TINS (Trustworthy and Intelligent Networked Systems) Lab. Dr. Gong is a recipient of the prestigious NSF Faculty Early Career Development Program (CAREER) Award and the NSF CISE Research Initiation Initiative (CRII) Award. She received a Ph.D. degree in electrical and computer engineering at the University of Florida, an M.S. degree in electronic engineering at Tsinghua University, and a B.E. degree in electronics and information engineering at Huazhong University of Science & Technology.
 
 ### Research Interests
 My current research interests focus on security and privacy, machine learning, Internet of things, and wireless networks.
     
 
 ### Selected Honors and Awards
-- NSF CAREER Award</span>, 2021
+- NSF CAREER Award, 2021
 - Top 10 Rising Stars in Networking and Communications, N2Women, 2021
 - Distinguished TPC Member, IEEE INFOCOM, 2020
-- <span class="text-danger font-weight-bold">NSF CISE CRII Award</span>, 2019
+- NSF CISE CRII Award, 2019
 - UT Rising STARs Award, 2019
 - President's Cup Award, Oklahoma State University, 2018
-- <span class="text-danger font-weight-bold">Best Paper Award</span> at IEEE GLOBECOM 2017
+- Best Paper Award at IEEE GLOBECOM, 2017
 <!-- - Outstanding Achievement Award, University of Florida, 2012 -- 2013 -->
 <!-- - Guanghua Scholarship for Excellent Students, Tsinghua University, 2011 -->
 <!-- - Providence Scholarship, Tsinghua University, 2011 -->
