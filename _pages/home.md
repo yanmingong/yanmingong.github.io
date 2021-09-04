@@ -20,7 +20,7 @@ Electrical and Computer Engineering<br>
 University of Texas at San Antonio<br>
 Office: BSE 1.514<i class="fas fa-building"></i><br>
 Email: yanmin.gong@utsa.edu <i class="fas fa-envelope"></i> <br> 
- <p>
+<!--  <p> -->
                 <ul class="list-inline list-social-icons my-0 text-center text-dark h5">
                     <li class="list-inline-item my-0 py-0 px-1">
                         <a target="_blank" href="https://scholar.google.com/citations?user=o3BGIEMAAAAJ&hl=en" class="">
@@ -53,13 +53,13 @@ Email: yanmin.gong@utsa.edu <i class="fas fa-envelope"></i> <br>
                         </a>
                     </li> -->
                     <li class="list-inline-item my-0 py-0 px-1">
-<!--                         <a target="_blank" href="https://orcid.org/0000-0002-1761-2834" class="">
+                        <a target="_blank" href="https://orcid.org/0000-0002-1761-2834" class="">
                             <i class="ai ai-orcid text-dark"></i>
-                        </a> -->
-<!--                       <div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0002-1761-2834" href="https://orcid.org/0000-0002-1761-2834" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">https://orcid.org/0000-0002-1761-2834</a></div> -->
+                        </a>
                     </li>
                 </ul>
-            </p>  <br>
+<!--             </p>   -->
+  <br>
 <!--   </i> -->
 </ul>
 </div>
