@@ -18,8 +18,8 @@ permalink: /
 <!-- Assistant Professor<br> -->
 Electrical and Computer Engineering<br>
 University of Texas at San Antonio<br>
-Office<i class="fas fa-building"></i>: BSE 1.514<br>
-Email<i class="fas fa-envelope"></i>: yanmin DOT gong AT utsa.edu  <br> 
+Office: BSE 1.514    <i class="fas fa-building"></i><br>
+Email  <i class="fas fa-envelope"></i>: yanmin DOT gong AT utsa.edu  <br> 
   <p></p>
 <!--  <p> -->
                 <ul class="list-inline list-social-icons my-0 text-center text-dark h5">
