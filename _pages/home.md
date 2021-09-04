@@ -12,6 +12,7 @@ permalink: /
 <div class="col-sm-8 clearfix" style="margin-top:20px; font-size:18px;">
 <ul style="overflow: hidden">
 <!-- <i> -->
+### Yanmin "Emily" Gong
 <!-- Assistant Professor<br> -->
 Electrical and Computer Engineering<br>
 University of Texas at San Antonio<br>
