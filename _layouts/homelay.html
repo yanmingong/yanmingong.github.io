@@ -4,8 +4,109 @@ layout: default
 
 <div class="row">
 	<div class="col-xs-10 col-md-5 align-self-center text-center">
-		{% include profile.html %}
-	</div>
+            <center>
+                <img class="profile-photo img-fluid img-thumbnail rounded-circle" src="assets/img/gci-photo.jpeg" alt="Joanna's Profile Photo">
+            </center>
+            <h1 class="font-weight-bolder">Joanna <span class="text-secondary font-weight-bold">C. S.</span> Santos</h1>
+
+            <p class="m-0 font-weight-bolder text-nd-blue">
+                Assistant Professor
+            </p>
+            <p class="m-0 text-nd-blue">
+                Department of Computer Science and Engineering
+            </p>
+            <p class="m-0 text-nd-blue">
+                University of Notre Dame
+            </p>
+            <p class="m-0 text-nd-blue">
+                382 Fitzpatrick Hall 
+            </p>
+            <p class="m-0 text-nd-blue">
+                Notre Dame, IN 46556
+            </p>
+
+            <p class="m-0 font-weight-bolder text-monospace text-nd-blue">
+                <img class="email-img" height="21.6" src="assets/img/nd-captcha-black-1.jpg" alt="e-mail">@nd.edu
+                <span class="fake-link" data-toggle="modal" data-target="#modalEmail" onclick="copyToClipboard('am9hbm5hY3NzQG5kLmVkdQ==',true)">
+                        <i class="far fa-copy text-primary fa-lg" data-toggle="tooltip" data-placement="top" title="Copy e-mail to clipboard"></i>
+                    </span>
+            </p>
+
+
+            <!-- <p class="m-0 font-weight-bolder text-nd-blue">
+                PhD Candidate
+            </p>
+            <p class="m-0 text-nd-blue">
+                Software Engineering & Global Cybersecurity Institute
+            </p>
+            <p class="m-0 text-nd-blue">
+                Rochester Institute of Technology
+            </p>
+            <p class="m-0 font-weight-bolder text-monospace text-nd-blue">
+                <img class="email-img" height="21.6" src="assets/img/captcha-black.jpeg" alt="e-mail">@rit.edu
+                <span class="fake-link" data-toggle="modal" data-target="#modalEmail" onclick="copyToClipboard('amRzNTEwOUByaXQuZWR1',true)">
+                        <i class="far fa-copy text-primary fa-lg" data-toggle="tooltip" data-placement="top" title="Copy e-mail to clipboard"></i>
+                    </span>
+            </p> -->
+            <p>
+                <ul class="list-inline list-social-icons my-0 text-center text-dark h5">
+                    <li class="list-inline-item my-0 py-0 px-1">
+                        <a target="_blank" href="https://scholar.google.com/citations?user=mkGmYyAAAAAJ" class="">
+                            <span class="ai ai-google-scholar text-dark"></span>
+                        </a>
+                    </li>
+                    <li class="list-inline-item my-0 py-0 px-1">
+                        <a target="_blank" href="https://dblp.org/pid/115/4772.html" class="">
+                            <span class="ai ai-dblp text-dark"></span>
+                        </a>
+                    </li>
+                    <li class="list-inline-item my-0 py-0 px-1">
+                        <a target="_blank" href="http://lattes.cnpq.br/3895954651968855" class="">
+                            <span class="ai ai-lattes text-dark"></span>
+                        </a>
+                    </li>
+                    <li class="list-inline-item my-0 py-0 px-1">
+                        <a target="_blank" href="https://www.researchgate.net/profile/Joanna_Cecilia_Da_Silva_Santos" class="">
+                            <span class="ai ai-researchgate text-dark"></span>
+                        </a>
+                    </li>
+                    <li class="list-inline-item my-0 py-0 px-1">
+                        <a target="_blank" href="https://twitter.com/joannacss" class="">
+                            <i class="fab fa-twitter text-dark"></i>
+                        </a>
+                    </li>
+                    <li class="list-inline-item my-0 py-0 px-1">
+                        <a target="_blank" href="https://www.linkedin.com/in/joannacss" class="">
+                            <i class="fab fa-linkedin-in text-dark"></i>
+                        </a>
+                    </li>
+                    <li class="list-inline-item my-0 py-0 px-1">
+                        <a target="_blank" href="https://www.github.com/joannacss" class="">
+                            <i class="fab fa-github text-dark"></i>
+                        </a>
+                    </li>
+                    <li class="list-inline-item my-0 py-0 px-1">
+                        <a target="_blank" href="https://orcid.org/0000-0001-8743-2516" class="">
+                            <i class="ai ai-orcid text-dark"></i>
+                        </a>
+                    </li>
+                </ul>
+            </p>
+            <!-- <p class="alert alert-danger small mt-1 p-0" role="alert">
+                I'll join the <a class="font-weight-bold text-dark" href="https://cse.nd.edu/">Computer Science and Engineering (CSE)</a> department at <span class="text-dark font-weight-bold">University of Notre Dame</span> as an <span class="font-weight-bold text-dark">Assistant Professor</span> on Fall 2021.
+            </p> -->
+            <p class="alert alert-danger small mt-1 p-0" role="alert">
+                I am <span class="font-weight-bold">recruiting Ph.D. students</span> interested in Software Engineering and/or Software Security. Feel free to 
+                <span class="fake-link" data-toggle="modal" data-target="#modalEmail" onclick="copyToClipboard('amRzNTEwOUByaXQuZWR1',true)">contact me</span> if you're interested.
+            </p>
+            <p class="small text-muted">
+                <b class="mx-1">Last Updated:</b> <i>September 2021</i>
+            </p>
+
+
+            
+
+        </div>
         <div id="home" class="col-md-7 text-justify">
 		{{ content }}
 		{% include news.html %}
