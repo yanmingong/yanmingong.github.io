@@ -1,4 +1,3 @@
-
 ---
 title: "Yanmin Gong - Home"
 layout: homelay
