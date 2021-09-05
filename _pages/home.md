@@ -5,9 +5,10 @@ excerpt: "Yanmin Gong at UTSA (The University of Texas at San Antonio)."
 sitemap: false
 permalink: /
 ---
+<header>
 <div class="col-sm-4 clearfix">
 <!--   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/gongyanmin3.jpg" class="img-responsive" width="80%" style="float: left" /> -->
-  <img class="img-fluid d-block mx-auto" src="{{ site.url }}{{ site.baseurl }}/images/teampic/gongyanmin4.jpg" style="width: 200px; height: 200px; border-radius: 50%; float: left;" alt="Dr. Yanmin Gong">
+  <img class="img-fluid d-block mx-auto" src="{{ site.url }}{{ site.baseurl }}/images/teampic/gongyanmin4.jpg" style="width: 220px; height: 220px; border-radius: 50%; float: left;" alt="Dr. Yanmin Gong">
 <!--                         <a target="_blank" href="https://scholar.google.com/citations?user=o3BGIEMAAAAJ&hl=en" class="my-0 text-center text-dark h5">
                             <span class="ai ai-google-scholar text-dark"></span>
                         </a>
@@ -27,9 +28,9 @@ permalink: /
 <div class="col-sm-8 clearfix" style="margin-top:20px; font-size:18px;">
 <ul style="overflow: hidden">
 <!-- <i> -->
-<header>
+
   <h1><strong>Yanmin Gong</strong></h1>
-</header>
+
   <!--  <p> -->
   
 <!-- Assistant Professor<br> -->
@@ -41,7 +42,7 @@ Email: yanmin DOT gong AT utsa.edu <i class="fas fa-envelope"></i><br>
   <br>
 </ul>
 </div>
-
+</header>
 
 ### Short Bio
 Yanmin Gong is an assistant professor in the Department of Electrical and Computer Engineering at The University of Texas at San Antonio, where she directs the Trustworthy and Intelligent Networked Systems (TINS) Lab. She is a recipient of the prestigious **<strong>NSF CAREER Award</strong>** and **NSF CRII Award**. She received a Ph.D. degree in electrical and computer engineering at the University of Florida, an M.S. degree in electronic engineering at Tsinghua University, and a B.E. degree in electronics and information engineering at Huazhong University of Science & Technology.
