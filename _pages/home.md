@@ -35,7 +35,6 @@ permalink: /
                             <i class="ai ai-orcid text-dark"></i>
                         </a>
                     </li>
-                </ul> -->
   <!--                     <li class="list-inline-item my-0 py-0 px-1">
                         <a target="_blank" href="https://dblp.org/pid/115/4772.html" class="">
                             <span class="ai ai-dblp text-dark"></span>
