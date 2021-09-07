@@ -23,7 +23,7 @@ University of Texas at San Antonio<br>
 Office: BSE 1.514    <i class="fas fa-building"></i><br>
 Email: yanmin DOT gong AT utsa.edu <i class="fas fa-envelope"></i><br> 
   <p></p>
-                <ul class="list-inline list-social-icons my-0 text-center text-dark h5">
+<!--                 <ul class="list-inline list-social-icons my-0 text-center text-dark h5">
                     <li class="list-inline-item my-0 py-0 px-1">
                         <a target="_blank" href="https://scholar.google.com/citations?user=o3BGIEMAAAAJ&hl=en" class="">
                             <span class="ai ai-google-scholar text-dark"></span>
@@ -50,7 +50,7 @@ Email: yanmin DOT gong AT utsa.edu <i class="fas fa-envelope"></i><br>
                             <i class="ai ai-orcid text-dark"></i>
                         </a>
                     </li>
-                </ul>
+                </ul> -->
 </ul>
 </div>
 
