@@ -8,21 +8,6 @@ permalink: /
 <div class="col-sm-4 clearfix">
 <!--   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/gongyanmin3.jpg" class="img-responsive" width="80%" style="float: left" /> -->
   <img class="img-fluid d-block mx-auto" src="{{ site.url }}{{ site.baseurl }}/images/teampic/gongyanmin4.jpg" style="width: 200px; height: 200px; border-radius: 50%; float: left;" alt="Dr. Yanmin Gong">
-<!--                         <a target="_blank" href="https://scholar.google.com/citations?user=o3BGIEMAAAAJ&hl=en" class="my-0 text-center text-dark h5">
-                            <span class="ai ai-google-scholar text-dark"></span>
-                        </a>
-                        <a target="_blank" href="https://www.researchgate.net/profile/Yanmin-Gong-2" class="my-0 text-center text-dark h5">
-                            <span class="ai ai-researchgate text-dark"></span>
-                        </a>
-                        <a target="_blank" href="https://twitter.com/Emily__Gong" class="my-0 text-center text-dark h5">
-                            <i class="fab fa-twitter text-dark"></i>
-                        </a>
-                        <a target="_blank" href="https://www.linkedin.com/in/yanmin-gong-b1b62824/" class="">
-                            <i class="fab fa-linkedin-in text-dark"></i>
-                        </a>
-                        <a target="_blank" href="https://orcid.org/0000-0002-1761-2834" class="">
-                            <i class="ai ai-orcid text-dark"></i>
-                        </a>  -->
 </div>
 <div class="col-sm-8 clearfix" style="margin-top:20px; font-size:18px;">
 <ul style="overflow: hidden">
