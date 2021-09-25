@@ -1,3 +1,13 @@
+- title: Hawaii International Conference on System Sciences 2022.
+  image: 
+  description:
+  authors:
+    P Bhatt,  O. Akanfe, Y. Guo, Y. Gong
+  link:
+    url: 
+    display: "Towards A Model For Inclusive Healthcare Access Post COVID-19"
+  highlight: 0
+
 - title: "IJCAI 2021, Montreal-themed Virtual Reality, Aug. 21 - 26, 2021. (Acceptance ratio: 13.9%)" 
   image: rui_IoTJ.png
   description: This work jointly investigates two ciritical concerns of federated learning, privacy and communication efficiency, and utilizes sparsification as a tool to achieve differential privacy and communication efficiency at the same time. To help reduce the privacy cost, we also integrates acceleration tecniques to offset the negative impact of sparsification on convergence rate.  
@@ -7,7 +17,7 @@
     url: 
     display: "Federated Learning with Sparsification-Amplified Privacy and Adaptive Optimization"
   highlight: 1
- 
+  
 - title: Proceedings of the 54th Hawaii International Conference on System Sciences 2021.
   image: SCAUweb.jpg
   description:
