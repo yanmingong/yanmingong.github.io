@@ -12,6 +12,7 @@ permalink: /service/
 - Associate Editor, IEEE Wireless Communications, Jan. 2019 - present
 
 #### Conference Organizing 
+- Registration Chair, 15th ACM Conference on Security and Privacy in Wireless and Mobile Networks (WiSec) 2022
 - Publication Chair, 16th EAI International Conference on Mobile and Ubiquitous Systems: Computing, Networking and Services (MobiQuitous) 2019
 - Publicity Chair, IEEE International Conference on Mobile Ad hoc and Sensor Systems (MASS) 2017
 
