@@ -29,7 +29,7 @@ We are grateful for funding from National Science Foundation, Air Force Research
 
 - CAREER: Ubiquitous and Time-Critical Federated Learning with Cooperative Mobile Edge Networking, National Science Foundation, $509,014, 10/01/2021 - 09/30/2026, Sole PI.
 
-- Collaborative Research: CNS Core: Medium: Towards Federated Learning over 5G Mobile Devices: High Efficiency, Low Latency, and Good Privacy, National Science Foundation, $250,000, 10/01/2021 - 09/30/2025, Co-PI.
+- Collaborative Research: CNS Core: Medium: Towards Federated Learning over 5G Mobile Devices: High Efficiency, Low Latency, and Good Privacy, National Science Foundation, $1,000,000, 10/01/2021 - 09/30/2025, Co-PI.
 
 - GREAT: Regional Natural Hazard Risk Assessment Methodology toward Resilient 5G Telecommunication Infrastructure Deployment, the Office of the Vice President for Research, Economic Development, and Knowledge Enterprise (VPREDKE) at UTSA, $20,000, 10/01/2021 - 07/31/2022, Co-PI.
 
