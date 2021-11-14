@@ -35,7 +35,7 @@ We are grateful for funding from National Science Foundation, Air Force Research
 
 - A Flexible Testbed for Cyber Deception, Cyber Hardening, and Disinformation Research, Department of Defense, $472,921, 07/01/2021 - 06/30/2022, Co-PI.
 
-- RAPID: Collaborative: Location Privacy Preserving COVID-19 Symptom Map Construction via Mobile Crowdsourcing for Proactive Constrained Resource Allocation, National Science Foundation, 05/04/2020 - 05/03/2022, Co-PI. This is a collaborative project with Dr. Miao Pan and Dr. Lan Ni at University of Houston, and Dr. Yuanxiong Guo at University of Texas at San Antonio. University of Houston is the leading institution. 
+- RAPID: Collaborative: Location Privacy Preserving COVID-19 Symptom Map Construction via Mobile Crowdsourcing for Proactive Constrained Resource Allocation, National Science Foundation, 05/04/2020 - 05/03/2022, Co-PI. This is a collaborative project with Dr. Miao Pan and Dr. Lan Ni at University of Houston, and Dr. Yuanxiong Guo at University of Texas at San Antonio. University of Houston is the leading institution. The total award amount is $199,999 and UTSA share is $100,000.
 
 - CRII: NeTS: Embracing Dynamic Spectrum Sharing without Privacy Concerns ([project webpage](https://yanmingong.github.io/crii)), National Science Foundation, $191,000, 10/01/2019 - 09/30/2022, Sole PI.
 
