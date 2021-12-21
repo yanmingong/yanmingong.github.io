@@ -53,7 +53,7 @@ My current research interests focus on the intersections of machine learning, se
 
 ### Selected Honors and Awards
 - NSF CAREER Award, 2021
-- IEEE Technical Committee on Scalable Computing (TCSC) Award for Excellence in Scalable Computing (Early Career Researcher), 2021
+- IEEE Technical Committee on Scalable Computing (TCSC) Award for Excellence (Early Career Researcher), 2021
 - Rising Star in Networking and Communications, N2Women, 2021
 - Distinguished TPC Member, IEEE INFOCOM, 2020
 - NSF CISE CRII Award, 2019
