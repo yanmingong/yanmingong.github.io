@@ -7,7 +7,7 @@ permalink: /service/
 ---
 ### Professional Activities
 
-#### Journal Editorship
+#### Editorial Board
 - Associate Editor, IEEE Wireless Communications, Jan. 2019 - present
 
 #### Conference Organizing / Board Member
