@@ -7,15 +7,14 @@ permalink: /service/
 ---
 ### Professional Activities
 
-
 #### Journal Editorship
 - Associate Editor, IEEE Wireless Communications, Jan. 2019 - present
 
-#### Conference Organizing 
+#### Conference Organizing / Board Member
+- Awards Co-Chair of N2Women Board 2022
 - Registration Chair, 15th ACM Conference on Security and Privacy in Wireless and Mobile Networks (WiSec) 2022
 - Publication Chair, 16th EAI International Conference on Mobile and Ubiquitous Systems: Computing, Networking and Services (MobiQuitous) 2019
 - Publicity Chair, IEEE International Conference on Mobile Ad hoc and Sensor Systems (MASS) 2017
-- Awards Co-Chair of N2Women Board 2022
 
 #### Panel Review
 - National Science Foundation (NSF) Panelist, 2017 -- 2019, 2021
