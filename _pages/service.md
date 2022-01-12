@@ -1,5 +1,5 @@
 ---
-title: "Yanmin Gomg"
+title: "Yanmin Gong"
 layout: service
 excerpt: "Yanmin Gong - Service"
 sitemap: false
@@ -17,7 +17,7 @@ permalink: /service/
 - Publicity Chair, IEEE International Conference on Mobile Ad hoc and Sensor Systems (MASS) 2017
 
 #### Community Service
-- Awards Co-Chair of N2Women [https://n2women.comsoc.org/] Board 2022
+- Awards Co-Chair of N2Women Board 2022
 
 #### Panel Review
 - National Science Foundation (NSF) Panelist, 2017 -- 2019, 2021
