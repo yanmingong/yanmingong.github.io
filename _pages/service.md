@@ -14,6 +14,7 @@ permalink: /service/
 - Awards Co-Chair of N2Women Board 2022
 - Registration Chair, 15th ACM Conference on Security and Privacy in Wireless and Mobile Networks (WiSec) 2022
 - Publication Chair, 16th EAI International Conference on Mobile and Ubiquitous Systems: Computing, Networking and Services (MobiQuitous) 2019
+- Organizing Committee, AI Summit at UT San Antonio
 - Publicity Chair, IEEE International Conference on Mobile Ad hoc and Sensor Systems (MASS) 2017
 
 #### Panel Review
