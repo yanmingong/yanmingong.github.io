@@ -1,3 +1,13 @@
+- title: "ICLR 2022" 
+  image: 
+  description: 
+  authors:
+    Y Guo, Y Sun, R Hu,  Y Gong
+  link:
+    url: 
+    display: "Hybrid Local SGD for Federated Learning with Heterogeneous Communications"
+  highlight: 0
+  
 - title: Hawaii International Conference on System Sciences 2022.
   image: 
   description:
