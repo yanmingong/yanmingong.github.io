@@ -7,6 +7,16 @@
     url: 
     display: "Hybrid Local SGD for Federated Learning with Heterogeneous Communications"
   highlight: 0
+
+- title: IEEE ICC, Seoul, South Korea, May 16–20, 2022
+  image: 
+  description: 
+  authors:
+    R Hu, Y. Guo, Y. Gong
+  link:
+    url: 
+    display: "Energy-Efficient Distributed Machine Learning at Wireless Edge with Device-to-Device Communication"
+  highlight: 0
   
 - title: Hawaii International Conference on System Sciences 2022.
   image: 
