@@ -55,7 +55,7 @@ My current research interests focus on the intersections of machine learning, se
 - NSF CAREER Award, 2021
 - IEEE Computer Society Technical Committee on Scalable Computing (TCSC) Early Career Researchers Award for Excellence in Scalable Computing, 2021
 - Rising Star in Networking and Communications, N2Women, 2021
-- Distinguished TPC Member, IEEE INFOCOM, 2020
+- Distinguished TPC Member, IEEE INFOCOM, 2020, 2022
 - NSF CISE CRII Award, 2019
 - Air Force Research Lab Summer Faculty Fellowship, June 2019
 - UT Rising STARs Award, 2019
