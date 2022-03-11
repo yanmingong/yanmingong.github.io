@@ -40,7 +40,7 @@ permalink: /misc/
 " target="_blank">How to write a research journal article in engineering and science.</a> </li> 
         <li>Feamster, Nick <a href="https://greatresearch.org/2013/08/31/time-management-tactics-for-academics/" target="_blank">Time Management Tactics for Academics. </a> 
 -->
-- Nicolas P. Rougier <a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003833/" target="_blank"> Ten Simple Rules for Better Figures </a>
+- Nicolas P. Rougier <a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003833" target="_blank"> Ten Simple Rules for Better Figures </a>
 <hr>
 
 ### Conference Deadlines
