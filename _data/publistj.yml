@@ -1,14 +1,4 @@
-- title:  IEEE Internet of Things Journal (IoT-J) (2022)
-  image: 
-  authors: R Chen, L Li, M Ying, Y Gong, Y Guo, T Ohtsuki, and M Pan
-  description: 
-  link:
-    display: "Constructing Mobile Crowdsourced COVID-19 Vulnerability Map with Geo-Indistinguishability"
-    url: 
-  highlight: 0
-  news2:
-  
- - title:  IEEE Internet of Things Journal (IoT-J) 7, 10 (2020).
+- title:  IEEE Internet of Things Journal (IoT-J) 7, 10 (2020).
   image: rui_IoTJ.png
   authors: R Hu, Y Guo, H Li, Q Pei, and Y Gong
   description: To meet the increasing demand of personalized services, machine learned models should capture their individual characteristics. This article proposes a privacy-preserving approach for learning effective personalized models on distributed user data while guaranteeing the differential privacy of user data.
