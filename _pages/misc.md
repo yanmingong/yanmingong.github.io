@@ -62,7 +62,7 @@ permalink: /misc/
 - NDSS 2023, submission deadline: 29 Jul 2022. 
 - MILCOM 2021, submission deadline: 2 Jul 2021. San Diego, CA, USA.
 - WPES 2020, submission deadline: July 23, 2020. Orlando, USA 
-- IEEE Infocom 2021, submission deadline: 15 Aug., 2020. Vancouver, Canada. 
+- IEEE Infocom 2023, submission deadline: 1 Aug, 2023. Tokyo, Japan. 
 - AAAI, August, 2021.
 - IEEE Symposium on Security and Privacy, submission deadline: December 2, 2021.
 - IEEE PerCom, submission deadline: September 19, 2018. 
