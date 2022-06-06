@@ -5,7 +5,7 @@ excerpt: "Yanmin Gong - NSF CAREER"
 sitemap: false
 permalink: /career/
 ---
-## NSF CAREER: 
+## NSF CAREER: Ubiquitous and Time-Critical Federated Learning with Cooperative Mobile Edge Networking
 
 ### Project Information
 CAREER: Ubiquitous and Time-Critical Federated Learning with Cooperative Mobile Edge Networking, [link](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2047761),  (CNS-2047761), Oct. 1, 2021 – Sep. 30, 2026.
