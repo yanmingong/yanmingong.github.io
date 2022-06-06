@@ -1,12 +1,12 @@
 - title: "The International Conference on Learning Representations (ICLR),  Virtual, April 25-29, 2022. (Spotlight, acceptance ratio: 5%)" 
-  image: 
-  description: 
+  image: HLSGD.png
+  description: Communication is a key bottleneck for federated learning over a large number of edge devices. In light of both device-to-device (D2D) and device-to-server (D2S) cooperation opportunities in modern communication networks, this paper proposes a new federated optimization algorithm dubbed hybrid local SGD (HL-SGD) in FL settings where devices are grouped into a set of disjoint clusters with high D2D communication bandwidth. HL-SGD subsumes previous proposed algorithms such as local SGD and gossip SGD and enables us to strike the best balance between model accuracy and runtime. in HL-SGD can largely speed up the training time of federated learning. 
   authors:
     Y Guo, Y Sun, R Hu,  Y Gong
   link:
     url: 
     display: "Hybrid Local SGD for Federated Learning with Heterogeneous Communications"
-  highlight: 0
+  highlight: 1
 
 - title: IEEE ICC, Seoul, South Korea, May 16–20, 2022
   image: 
