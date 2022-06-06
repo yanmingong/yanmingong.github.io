@@ -90,12 +90,12 @@ permalink: /team/
 <div class="col-sm-6 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4>{{ member.name }}</h4>
-  <i><br>Initial employment: <{{member.initial_employment}}></i>
-  <i><br>Graduated: {{ member.info }}</i>
+  <i><br>initial employment: <{{member.initial_employment}}></i>
   <i><br>email: <{{ member.email }}></i>
+  <i><br>graduated: {{ member.info }}</i>
   </ul>
 </div>
-
+i
 {% assign number_printed = number_printed | plus: 1 %}
 
 {% if even_odd == 1 %}
