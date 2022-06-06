@@ -27,23 +27,23 @@ We are grateful for funding from National Science Foundation, Air Force Research
 
 #### Active Projects
 
-- CAREER: Ubiquitous and Time-Critical Federated Learning with Cooperative Mobile Edge Networking ([project webpage](https://yanmingong.github.io/career)), National Science Foundation, $509,014, 10/01/2021 - 09/30/2026, Sole PI.
+- CAREER: Ubiquitous and Time-Critical Federated Learning with Cooperative Mobile Edge Networking ([project webpage](https://yanmingong.github.io/career)), National Science Foundation, 10/01/2021 - 09/30/2026, Sole PI.
 
-- Collaborative Research: CNS Core: Medium: Towards Federated Learning over 5G Mobile Devices: High Efficiency, Low Latency, and Good Privacy, National Science Foundation, 10/01/2021 - 09/30/2025, Co-PI. The total award amount is $1,000,000 and UTSA share is $250,000.
+- Collaborative Research: CNS Core: Medium: Towards Federated Learning over 5G Mobile Devices: High Efficiency, Low Latency, and Good Privacy, National Science Foundation, 10/01/2021 - 09/30/2025, Co-PI. 
 
-- GREAT: Regional Natural Hazard Risk Assessment Methodology toward Resilient 5G Telecommunication Infrastructure Deployment, the Office of the Vice President for Research, Economic Development, and Knowledge Enterprise (VPREDKE) at UTSA, $20,000, 10/01/2021 - 07/31/2022, Co-PI.
+- GREAT: Regional Natural Hazard Risk Assessment Methodology toward Resilient 5G Telecommunication Infrastructure Deployment, the Office of the Vice President for Research, Economic Development, and Knowledge Enterprise (VPREDKE) at UTSA, 10/01/2021 - 07/31/2022, Co-PI.
 
-- A Flexible Testbed for Cyber Deception, Cyber Hardening, and Disinformation Research, Department of Defense, $472,921, 07/01/2021 - 06/30/2022, Co-PI.
+- A Flexible Testbed for Cyber Deception, Cyber Hardening, and Disinformation Research, Department of Defense, 07/01/2021 - 06/30/2022, Co-PI.
 
-- CRII: NeTS: Embracing Dynamic Spectrum Sharing without Privacy Concerns ([project webpage](https://yanmingong.github.io/crii)), National Science Foundation, $191,000, 10/01/2019 - 09/30/2022, Sole PI.
+- CRII: NeTS: Embracing Dynamic Spectrum Sharing without Privacy Concerns ([project webpage](https://yanmingong.github.io/crii)), National Science Foundation, 10/01/2019 - 09/30/2022, Sole PI.
 
 #### Completed Projects
 
-- RAPID: Collaborative: Location Privacy Preserving COVID-19 Symptom Map Construction via Mobile Crowdsourcing for Proactive Constrained Resource Allocation ([project webpage](https://panlab.ece.uh.edu/projects/RAPID-PPCOVIDMap/)), National Science Foundation, 05/04/2020 - 05/03/2022, Co-PI. The total award amount is $199,999 and UTSA share is $100,000.
+- RAPID: Collaborative: Location Privacy Preserving COVID-19 Symptom Map Construction via Mobile Crowdsourcing for Proactive Constrained Resource Allocation ([project webpage](https://panlab.ece.uh.edu/projects/RAPID-PPCOVIDMap/)), National Science Foundation, 05/04/2020 - 05/03/2022, Co-PI. 
 
-- Association of Cyber and Visual IDs of Drones with Backscatter Tags, Air Force Research Laboratory, $10,000, 10/01/2019 - 01/01/2020, PI.
+- Association of Cyber and Visual IDs of Drones with Backscatter Tags, Air Force Research Laboratory, 10/01/2019 - 01/01/2020, PI.
 
-- Secure Wireless Communication against Spoofing Attacks in UAV Systems, Air Force Research Laboratory, $17,040, 05/15/2019 - 07/15/2019, PI.
+- Secure Wireless Communication against Spoofing Attacks in UAV Systems, Air Force Research Laboratory, 05/15/2019 - 07/15/2019, PI.
 
 <!-- ### Research Keywords
 <figure>
