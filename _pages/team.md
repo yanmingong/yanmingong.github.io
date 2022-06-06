@@ -1,7 +1,7 @@
 ---
 title: "TINS Lab"
 layout: gridlay
-excerpt: "NISP Lab: Group members"
+excerpt: "TINS Lab: Group members"
 sitemap: false
 permalink: /team/
 ---
