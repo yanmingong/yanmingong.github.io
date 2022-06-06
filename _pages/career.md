@@ -1,7 +1,7 @@
 ---
 title: "Yanmin Gong" 
 layout: teaching
-excerpt: "Yanmin Gong - NSF CRII"
+excerpt: "Yanmin Gong - NSF CAREER"
 sitemap: false
 permalink: /career/
 ---
