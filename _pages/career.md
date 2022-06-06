@@ -15,7 +15,7 @@ This project develops a novel Federated learning (FL) framework based on coopera
 
 <figure>
 <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/career.jpg" width="40%">
-<img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/testbed2.jpg" width="40%">
+<img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/testbed2.jpg" width="50%">
 </figure>
 ### Personnel
 - Rui Hu, PhD student (graduated)
