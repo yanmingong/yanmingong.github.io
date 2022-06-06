@@ -39,7 +39,7 @@ We are grateful for funding from National Science Foundation, Air Force Research
 
 #### Completed Projects
 
-- RAPID: Collaborative: Location Privacy Preserving COVID-19 Symptom Map Construction via Mobile Crowdsourcing for Proactive Constrained Resource Allocation, National Science Foundation, 05/04/2020 - 05/03/2022, Co-PI. The total award amount is $199,999 and UTSA share is $100,000.
+- RAPID: Collaborative: Location Privacy Preserving COVID-19 Symptom Map Construction via Mobile Crowdsourcing for Proactive Constrained Resource Allocation ([project webpage](https://panlab.ece.uh.edu/projects/RAPID-PPCOVIDMap/)), National Science Foundation, 05/04/2020 - 05/03/2022, Co-PI. The total award amount is $199,999 and UTSA share is $100,000.
 
 - Association of Cyber and Visual IDs of Drones with Backscatter Tags, Air Force Research Laboratory, $10,000, 10/01/2019 - 01/01/2020, PI.
 
