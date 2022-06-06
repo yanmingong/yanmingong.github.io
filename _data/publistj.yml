@@ -7,6 +7,16 @@
     url: 09082603.pdf
   highlight: 0
   news2:
+
+- title:  IEEE Internet of Things Journal (IoT-J) 7, 10 (2020).
+  image: rui_IoTJ.png
+  authors: R Hu, Y Guo, H Li, Q Pei, and Y Gong
+  description: To meet the increasing demand of personalized services, machine learned models should capture their individual characteristics. This article proposes a privacy-preserving approach for learning effective personalized models on distributed user data while guaranteeing the differential privacy of user data.
+  link:
+    display: "Personalized Federated Learning with Differential Privacy"
+    url: 09082603.pdf
+  highlight: 0
+  news2:
   
 - title:  IEEE Transactions on Mobile Computing (TMC) (2021).
   image: 
