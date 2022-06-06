@@ -27,7 +27,7 @@ We are grateful for funding from National Science Foundation, Air Force Research
 
 #### Active Projects
 
-- CAREER: Ubiquitous and Time-Critical Federated Learning with Cooperative Mobile Edge Networking, National Science Foundation, $509,014, 10/01/2021 - 09/30/2026, Sole PI.
+- CAREER: Ubiquitous and Time-Critical Federated Learning with Cooperative Mobile Edge Networking ([project webpage](https://yanmingong.github.io/career)), National Science Foundation, $509,014, 10/01/2021 - 09/30/2026, Sole PI.
 
 - Collaborative Research: CNS Core: Medium: Towards Federated Learning over 5G Mobile Devices: High Efficiency, Low Latency, and Good Privacy, National Science Foundation, 10/01/2021 - 09/30/2025, Co-PI. The total award amount is $1,000,000 and UTSA share is $250,000.
 
