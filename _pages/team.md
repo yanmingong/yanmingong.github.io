@@ -1,5 +1,5 @@
 ---
-title: "NISP Lab"
+title: "TINS Lab"
 layout: gridlay
 excerpt: "NISP Lab: Group members"
 sitemap: false
