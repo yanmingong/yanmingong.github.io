@@ -134,7 +134,6 @@ permalink: /team/
 </div>
 {% endif %}
 
-<!-- 
 ## Alumni
 
 {% assign number_printed = 0 %}
@@ -168,6 +167,7 @@ permalink: /team/
 </div>
 {% endif %}
 
+<!-- 
 ## Former visitors, BSc/ MSc students
 <div class="row">
 
