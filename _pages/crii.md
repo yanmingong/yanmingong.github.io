@@ -15,7 +15,7 @@ The goal of this proposal is to limit unintended exposure of privacy information
 
 <figure>
 <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/remsystem.jpg" width="40%">
-<img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/rem.jpg" width="40%">
+<img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/rem.jpg" width="60%">
 </figure>
 
 
