@@ -1,7 +1,7 @@
 ---
 title: "Yanmin Gong - Home"
 layout: homelay
-excerpt: "Yanmin Gong at UTSA (The University of Texas at San Antonio)."
+excerpt: "Yanmin Gong at UT San Antonio."
 sitemap: false
 permalink: /
 ---
