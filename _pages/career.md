@@ -26,4 +26,4 @@ This project develops a novel Federated learning (FL) framework based on coopera
 ### Publications
 - Y Guo, Y Sun, R Hu, and Y Gong, "Hybrid Local SGD for Federated Learning with Heterogeneous Communications," The International Conference on Learning Representations (ICLR), Virtual, April 25-29, 2022. 
 
-- Z Zhang, Z Gao, Y Guo, Y Gong, "Scalable and Low-Latency Federated Learning with Cooperative Mobile Edge Networking," https://arxiv.org/abs/2205.13054.
+- Z Zhang, Z Gao, Y Guo, Y Gong, "Scalable and Low-Latency Federated Learning with Cooperative Mobile Edge Networking," under submission. 
