@@ -36,6 +36,7 @@ permalink: /misc/
 - Meier, Alan <a href="folder/how_to_review.pdf"  target="_blank">How to Review a Technical Paper </a>
 - Krishnamurthi, Shriram <a href="https://cs.brown.edu/~sk/Memos/Paper-Reviews/"  target="_blank">How to Write Technical Paper Reviews </a>
 - Wierman, Adam  <a href="http://users.cms.caltech.edu/~adamw/advising.html/"  target="_blank">Advice </a>    
+- Nicholas Carlini  <a href="https://nicholas.carlini.com/writing/2022/paper-release-checklist.html"  target="_blank">Research Paper Release Checklist </a>    
 <!--         <li>Socolofsky, Scott A. <a href="https://ceprofs.civil.tamu.edu/ssocolofsky/downloads/paper_how-to.pdf
 " target="_blank">How to write a research journal article in engineering and science.</a> </li> 
         <li>Feamster, Nick <a href="https://greatresearch.org/2013/08/31/time-management-tactics-for-academics/" target="_blank">Time Management Tactics for Academics. </a> 
