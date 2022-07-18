@@ -27,6 +27,7 @@ The goal of this proposal is to limit unintended exposure of privacy information
 - Andy Hernandez, Undergraduate student (REU)
 
 ### Publications
+- R Chen, L Li, M Ying, Y Gong, Y Guo, T Ohtsuki, and M Pan, "Constructing Mobile Crowdsourced COVID-19 Vulnerability Map with Geo-Indistinguishability" IEEE Internet of Things Journal, 2022
 - S Amin, L Li, Y Guo, M Pan and Y Gong, "Geo-Indistinguishability for Crowdsourced-Based Radio Environment Map Construction" IEEE GLOBECOM, Taipei, Taiwan, Dec. 7-11, 2020.
 - R Hu, Guo, Yuanxiong, Li, Hongning and Pei, Qingqi and Gong, Yanmin "Personalized Federated Learning with Differential Privacy" IEEE Internet of Things Journal , 2020 https://doi.org/10.1109/JIOT.2020.2991416 
 - Huang, Zonghao and Hu, Rui and Guo, Yuanxiong and Chan-Tin, Eric and Gong, Yanmin "DP-ADMM: ADMM-Based Distributed Learning With Differential Privacy" IEEE Transactions on Information Forensics and Security , v.15 , 2020 10.1109/TIFS.2019.2931068 
