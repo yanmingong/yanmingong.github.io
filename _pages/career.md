@@ -26,4 +26,11 @@ This project develops a novel Federated learning (FL) framework based on coopera
 ### Publications
 - Y Guo, Y Sun, R Hu, and Y Gong, "Hybrid Local SGD for Federated Learning with Heterogeneous Communications," The International Conference on Learning Representations (ICLR), Virtual, April 25-29, 2022. 
 
+- R Hu, Y Guo, and Y Gong, “Concentrated differentially private federated learning with performance
+analysis,” IEEE Open Journal of the Computer Society, vol. 2, pp. 276–289, 2021.
+
+- R Hu, Y Guo, and Y Gong, “Energy-efficient distributed machine learning at wireless edge with device-
+to-device communication,” in ICC 2022 - 2022 IEEE International Conference on Communications
+(ICC), 2022, pp. 1–6.
+
 - Z Zhang, Z Gao, Y Guo, Y Gong, "Scalable and Low-Latency Federated Learning with Cooperative Mobile Edge Networking," under submission. 
