@@ -24,7 +24,8 @@ permalink: /service/
 - National Science Foundation (NSF) Panelist, 2017 -- 2019, 2021
 
 #### TPC Members
-- IEEE International Conference on Computer Communications (INFOCOM), 2017 -- 2021
+- AAAI Conference on Artificial Intelligence (AAAI), 2023
+- IEEE International Conference on Computer Communications (INFOCOM), 2017 -- 2022
 - IEEE  Conference on Communications and Network Security (CNS), 2017, 2018, 2021
 - IEEE Global Communications Conference, 2021
 - International Joint Conference on Artificial Intelligence and the Pacific Rim International Conference on Artificial Intelligence (IJCAI-PRICAI), 2020
