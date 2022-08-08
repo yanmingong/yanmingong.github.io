@@ -1,3 +1,13 @@
+- title: "IEEE Conference on Communications and Network Security (CNS) 2022" 
+  image: 
+  description: 
+  authors:
+    Y Guo, R Hu,  Y Gong
+  link:
+    url: 
+    display: "Agent-Level Differentially Private Federated Learning via Compressed Model Perturbation"
+  highlight: 0
+  
 - title: "The International Conference on Learning Representations (ICLR),  Virtual, April 25-29, 2022. (Spotlight, acceptance ratio: 5%)" 
   image: HLSGD.png
   description: In light of both device-to-device (D2D) and device-to-server (D2S) cooperation opportunities in modern communication networks, this paper proposes a new federated learning approach where devices are grouped into a set of disjoint clusters with high D2D communication bandwidth. The new approach enables us to largely reduce the training latency of federated learning. 
