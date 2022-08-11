@@ -46,7 +46,7 @@ permalink: /misc/
 
 ### Conference Deadlines
 - [VLDB 2021](http://vldb.org/pvldb/vol14-submission/), monthly deadline.
-- ACM CCS 2021, submission deadline: 21 Jan 2021.
+- ACM CCS 2021, submission deadline: 21 Jan 2023 & May 2023.
 - [IEEE ICDCS 2022](https://icdcs2022.icdcs.org/cfp/), abstract submission deadline: January 17, 2022; full submission deadline: Jan. 24, 2022. Bologna, Italy.
 - [IJCAI/ECAI 2022](https://ijcai-22.org/calls-papers/), submission deadline: January 7, 2022. Vienna.
 - [ICML 2022](https://icml.cc/Conferences/2022), submission deadline: Abstract January 20, 2022; Full Paper Jan. 27, 2022.
@@ -56,7 +56,8 @@ permalink: /misc/
 - MobiHoc, submission deadline Mar 4, 2022. Seoul, South Korea.
 - EAI SecureComm, submission deadline: April 3, 2022. 
 - IEEE ICNP, submission deadline: May 19, 2020.
-- NeurIPS, around May, 2021
+- NeurIPS, around May, 2022.
+- ICML, 06/01/2022.
 - [Usenix Security](https://www.usenix.org/conference/usenixsecurity22), submission deadline: 1 Feb 2022. Boston, MA.
 - ACSAC 2020, submission deadline: 13 Jun 2020. Austin, TX, USA. 
 - ACM International Conference on Information and Knowledge Management (CIKM), June 2021.
@@ -65,8 +66,10 @@ permalink: /misc/
 - MILCOM 2021, submission deadline: 2 Jul 2021. San Diego, CA, USA.
 - WPES 2020, submission deadline: July 23, 2020. Orlando, USA 
 - IEEE Infocom 2023, submission deadline: 1 Aug, 2023. Tokyo, Japan. 
-- AAAI, August, 2021.
-- IEEE Symposium on Security and Privacy, submission deadline: December 2, 2021.
+- AAAI, 08/05, 2022.
+- IEEE Symposium on Security and Privacy, submission deadline: 08/19/2022, 12/02/2022.
+- ICLR, 09/21, 2022.
+- Usenix Security, 10/11/2022.
 - IEEE PerCom, submission deadline: September 19, 2018. 
 - The Web Conference (formerly International World Wide Web Conference), submission deadline: around Oct. 2020. 
 - ICASSP 2021, submission deadline: around Oct. 2020.
