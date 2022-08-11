@@ -56,10 +56,10 @@ permalink: /misc/
 - MobiHoc, submission deadline Mar 4, 2022. Seoul, South Korea.
 - EAI SecureComm, submission deadline: April 3, 2022. 
 - IEEE ICNP, submission deadline: May 19, 2020.
+- CIKM, 05/12/2022.
 - NeurIPS, around May, 2022.
-- ICML, 01/27/2022.
 - [Usenix Security](https://www.usenix.org/conference/usenixsecurity22), submission deadline: 1 Feb 2022. Boston, MA.
-- ACSAC 2020, submission deadline: 13 Jun 2020. Austin, TX, USA. 
+- ACSAC 2022, submission deadline: 29 Jun 2022. Austin, TX, USA. 
 - ACM International Conference on Information and Knowledge Management (CIKM), June 2021.
 - ICDE 2021, submission deadline: 10 June 2020. Chania, Greece. 
 - NDSS 2023, submission deadline: 29 Jul 2022. 
@@ -70,11 +70,8 @@ permalink: /misc/
 - IEEE Symposium on Security and Privacy, submission deadline: 08/19/2022, 12/02/2022.
 - ICLR, 09/21, 2022.
 - Usenix Security, 10/11/2022.
-- IEEE PerCom, submission deadline: September 19, 2018. 
 - The Web Conference (formerly International World Wide Web Conference), submission deadline: around Oct. 2020. 
-- ICASSP 2021, submission deadline: around Oct. 2020.
 - PETS 2020 Montréal, Canada.
-- IEEE ICC, submission deadline: Oct. 14, 2019.
 - IEEE/IFIP International Conference on Dependable Systems and Networks (DSN), submission deadline: Dec. 3, 2019.
 - [AsiaCCS 2021](https://asiaccs2021.comp.polyu.edu.hk/datescalls/call-for-papers/). Second deadline: Dec. 11, 2020.
 
