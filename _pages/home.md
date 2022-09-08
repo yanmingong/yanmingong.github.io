@@ -48,7 +48,7 @@ Email: yanmin DOT gong AT utsa.edu <i class="fas fa-envelope"></i><br>
 Yanmin Gong is an associate professor and Microsoft President’s Endowed Fellow in the Department of Electrical and Computer Engineering at The University of Texas at San Antonio, where she directs the Trustworthy and Intelligent Networked Systems (TINS) Lab. She is a recipient of the prestigious **<strong>NSF CAREER Award</strong>** and **NSF CRII Award**. She received a Ph.D. degree in electrical and computer engineering at the University of Florida, an M.S. degree in electronic engineering at Tsinghua University, and a B.E. degree in electronics and information engineering at Huazhong University of Science & Technology.
 
 ### Research Interests
-My current research interests include wireless networking, edge computing, machine learning, and security and privacy.
+My current research interests include edge computing, machine learning, security and privacy, and wireless networking.
     
 ### Selected Honors and Awards
 - NSF CAREER Award, 2021
