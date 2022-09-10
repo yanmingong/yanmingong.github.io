@@ -19,9 +19,7 @@ permalink: /service/
 
 #### Community Service
 - Awards Co-Chair of [N2Women](https://n2women.comsoc.org/) Board 2022
-
-#### Panel Review
-- National Science Foundation (NSF) Panelist, 2017 -- 2019, 2021
+- National Science Foundation (NSF) Panelist, 2017 -- 2019, 2021-2022
 
 #### TPC Members
 - IEEE International Conference on Computer Communications (INFOCOM), 2017 -- 2023
