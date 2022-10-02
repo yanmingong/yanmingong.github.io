@@ -6,7 +6,8 @@ sitemap: false
 permalink: /outreach/
 ---
 ### K-12 Outreach
-- As part of  <a href="https://education.okstate.edu/national-lab-day.html">OSU National Lab Day</a>, our lab hosted Guthrie High School students and demonstrated our research projects to the students (2018 May)
+<!-- - As part of  <a href="https://education.okstate.edu/national-lab-day.html">OSU National Lab Day</a>, our lab hosted Guthrie High School students and demonstrated our research projects to the students (2018 May) -->
+- Our lab hosted Guthrie High School students and demonstrated our research projects to the students (2018 May)
 
     	  <center><img src="{{ site.url }}{{ site.baseurl }}/images/outreachpic/outreachgrouppic1.jpg" alt="NationalLabDay" style="height: 200px" itemprop="image"><img src="{{ site.url }}{{ site.baseurl }}/images/outreachpic/outreachgrouppic2.jpg" alt="NationalLabDay" style="height: 200px" itemprop="image">
     	  </center>
