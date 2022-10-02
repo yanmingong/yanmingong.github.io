@@ -15,7 +15,7 @@ permalink: /outreach/
 
 ### Outreach for Women
 
-- Nominated female candidates for N2Women Rising Stars 2022 as Awards Co-Chair of N2Women(2022)
+- Nominated female candidates for N2Women Rising Stars 2022 as N2Women Awards Co-Chair (2022)
 - Participated in the joint N2Women and WICE professional development workshop, Kansas City, MO (2018)
 - Participated in the 1st Workshop for Women in Cyber Security (CyberW) collocated with ACM CCS, Dallas, TX (2017)
 - Participated in the Networking Networking Women event at IEEE GLOBECOM, DC (2016)
