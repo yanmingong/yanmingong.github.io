@@ -18,7 +18,7 @@ permalink: /service/
 - Publicity Chair, IEEE International Conference on Mobile Ad hoc and Sensor Systems (MASS) 2017
 
 #### Community Service
-- Reviewer of [NSF PETs Prize Challenge](https://www.drivendata.org/competitions/98/nist-federated-learning-1/) 2022
+- Reviewer of [NSF PETs Prize Challenge](https://www.drivendata.org/competitions/98/nist-federated-learning-1/), 2022
 - Awards Co-Chair of [N2Women](https://n2women.comsoc.org/) Board 2022
 - National Science Foundation (NSF) Panelist, 2017 -- 2019, 2021-2022
 
