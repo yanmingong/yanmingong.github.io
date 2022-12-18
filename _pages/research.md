@@ -27,6 +27,8 @@ We are grateful for funding from National Science Foundation, Air Force Research
 
 #### Active Projects
 
+- Across Hospitals and Devices: Collaborative Stroke Risk Prediction via Federated Learning, CISCO Research, 06/01/2023 - 05/31/2024, Sole PI.
+
 - CAREER: Ubiquitous and Time-Critical Federated Learning with Cooperative Mobile Edge Networking ([project webpage](https://yanmingong.github.io/career)), National Science Foundation, 10/01/2021 - 09/30/2026, Sole PI.
 
 - Collaborative Research: CNS Core: Medium: Towards Federated Learning over 5G Mobile Devices: High Efficiency, Low Latency, and Good Privacy, National Science Foundation, 10/01/2021 - 09/30/2025, Co-PI. 
