@@ -55,14 +55,15 @@ permalink: /misc/
 - Mobicom, submission August 2021, & March 25, 2022. 
 - MobiHoc, submission deadline Mar 4, 2022. Seoul, South Korea.
 - EAI SecureComm, submission deadline: April 3, 2022. 
+- [NDSS 2024](https://www.ndss-symposium.org/ndss2024/submissions/call-for-papers/), summer submission deadline: 19 Apr 2023. San Diego, CA.
 - IEEE ICNP, submission deadline: May 19, 2020.
 - CIKM, 05/12/2022.
-- NeurIPS, around May, 2022.
-- [Usenix Security](https://www.usenix.org/conference/usenixsecurity22), submission deadline: 1 Feb 2022. Boston, MA.
+- NeurIPS 2023, abstract due: May 11, 2023; paper due: May 17, 2023.
+- Usenix Security 2024, summer submissions due: Tuesday, June 6, 2023. Philadephia, PA.
 - ACSAC 2022, submission deadline: 29 Jun 2022. Austin, TX, USA. 
 - ACM International Conference on Information and Knowledge Management (CIKM), June 2021.
 - ICDE 2021, submission deadline: 10 June 2020. Chania, Greece. 
-- NDSS 2023, submission deadline: 29 Jul 2022. 
+- [NDSS 2024](https://www.ndss-symposium.org/ndss2024/submissions/call-for-papers/), fall submission deadline: 28 Jun 2023. San Diego, CA.
 - MILCOM 2021, submission deadline: 2 Jul 2021. San Diego, CA, USA.
 - WPES 2020, submission deadline: July 23, 2020. Orlando, USA 
 - IEEE Infocom 2023, submission deadline: 1 Aug, 2023. Tokyo, Japan. 
