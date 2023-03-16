@@ -50,13 +50,10 @@ permalink: /misc/
 - IJCAI-PRICAI 2024, submission deadline: around January, 2024. Shanghai, China.
 - ICML 2024, abstract submission deadline: around January, 2024; full submission date: Jan, 2024. Vienna.
 - KDD 2024, submission deadline: around February, 2024.
-<!-- - [ACM WiSec 2022](https://petsymposium.org/index.php), submission deadline: March 1, 2018.  -->
 - Mobicom 2024, submission around August, 2023. 
 - MobiHoc, submission deadline around Mar 10, 2024.
-<!-- - EAI SecureComm, submission deadline: April 3, 2022.  -->
 - [NDSS 2024](https://www.ndss-symposium.org/ndss2024/submissions/call-for-papers/), summer submission deadline: 19 Apr 2023. San Diego, CA.
 - [IEEE Symposium on Security and Privacy 2024](https://sp2024.ieee-security.org/), first submission deadline: April 13, 2023.
-<!-- - [IEEE ICNP 2023](https://icnp23.cs.ucr.edu/cfp.html), submission deadline: May 24, 2023. Reykjavík, Iceland. -->
 - [CIKM 2023](https://cikm2023.github.io/), abstract: May 26, 2023, full paper paper: June 2, 2023. Birmingham, UK.
 - [NeurIPS 2023](https://nips.cc/), abstract due: May 11, 2023; paper due: May 17, 2023. New Orleans.
 - [ACM CCS 2023](https://www.sigsac.org/ccs/CCS2023/call-for-paper.html), second submission deadline: May 4th, 2023. Copenhagen, Denmark.
@@ -66,17 +63,19 @@ permalink: /misc/
 - [NDSS 2024](https://www.ndss-symposium.org/ndss2024/submissions/call-for-papers/), fall submission deadline: 28 Jun 2023. San Diego, CA.
 - [AsiaCCS 2024](https://asiaccs2024.sutd.edu.sg/dates/), first deadline: 21 August 2023. Singapore.
 - [IEEE Symposium on Security and Privacy 2024](https://sp2024.ieee-security.org/), second submission deadline: August 3, 2023. 
-<!-- - MILCOM 2021, submission deadline: 2 Jul 2021. San Diego, CA, USA. -->
 - [Usenix Security 2024](https://www.usenix.org/conference/usenixsecurity24), fall submissions due: October 17, 2023. Philadephia, PA.
-<!-- - WPES 2020, submission deadline: July 23, 2020. Orlando, USA  -->
 - IEEE Infocom 2024, submission deadline: around July, 2023. 
 - AAAI 2024, around August, 2023.
 - ICLR 2024, deadline: around Sept, 2023. Vienna, Austria, Europe.
 - The Web Conference (formerly International World Wide Web Conference), submission deadline: around Oct. 2023. Singapore.
+- [AsiaCCS 2024](https://asiaccs2024.sutd.edu.sg/dates/), second deadline: 7 December 2023. Singapore.
+<!-- - [ACM WiSec 2022](https://petsymposium.org/index.php), submission deadline: March 1, 2018.  -->
+<!-- - EAI SecureComm, submission deadline: April 3, 2022.  -->
+<!-- - [IEEE ICNP 2023](https://icnp23.cs.ucr.edu/cfp.html), submission deadline: May 24, 2023. Reykjavík, Iceland. -->
+<!-- - MILCOM 2021, submission deadline: 2 Jul 2021. San Diego, CA, USA. -->
+<!-- - WPES 2020, submission deadline: July 23, 2020. Orlando, USA  -->
 <!-- - PETS 2020 Montréal, Canada. -->
 <!-- - IEEE/IFIP International Conference on Dependable Systems and Networks (DSN), submission deadline: around Dec. 2023.  -->
-- [AsiaCCS 2024](https://asiaccs2024.sutd.edu.sg/dates/), second deadline: 7 December 2023. Singapore.
-
 
 ### Other Publication Venues
 - IEEE Transactions on Information Forensics and Security.
