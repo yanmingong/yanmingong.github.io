@@ -59,12 +59,13 @@ permalink: /misc/
 - IEEE ICNP, submission deadline: May 19, 2020.
 - CIKM, 05/12/2022.
 - NeurIPS 2023, abstract due: May 11, 2023; paper due: May 17, 2023.
-- Usenix Security 2024, summer submissions due: Tuesday, June 6, 2023. Philadephia, PA.
+- [Usenix Security 2024](https://www.usenix.org/conference/usenixsecurity24), summer submissions due: June 6, 2023. Philadephia, PA.
 - ACSAC 2022, submission deadline: 29 Jun 2022. Austin, TX, USA. 
 - ACM International Conference on Information and Knowledge Management (CIKM), June 2021.
 - ICDE 2021, submission deadline: 10 June 2020. Chania, Greece. 
 - [NDSS 2024](https://www.ndss-symposium.org/ndss2024/submissions/call-for-papers/), fall submission deadline: 28 Jun 2023. San Diego, CA.
 - MILCOM 2021, submission deadline: 2 Jul 2021. San Diego, CA, USA.
+- [Usenix Security 2024](https://www.usenix.org/conference/usenixsecurity24), fall submissions due: October 17, 2023. Philadephia, PA.
 - WPES 2020, submission deadline: July 23, 2020. Orlando, USA 
 - IEEE Infocom 2023, submission deadline: 1 Aug, 2023. Tokyo, Japan. 
 - AAAI, 08/05, 2022.
