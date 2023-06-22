@@ -33,4 +33,6 @@ analysis,” IEEE Open Journal of the Computer Society, vol. 2, pp. 276–289, 2
 to-device communication,” in ICC 2022 - 2022 IEEE International Conference on Communications
 (ICC), 2022, pp. 1–6.
 
-- Z Zhang, Z Gao, Y Guo, Y Gong, "Scalable and Low-Latency Federated Learning with Cooperative Mobile Edge Networking," under submission. 
+- Z Zhang, Z Gao, Y Guo, Y Gong, "Scalable and Low-Latency Federated Learning with Cooperative Mobile Edge Networking," IEEE Transactions on Mobile Computing (TMC).
+
+- T. Wang, Y. Du, Y. Gong, K. Choo, Y. Guo, "Applications of Federated Learning in Mobile Health: Scoping Review", JOURNAL OF MEDICAL INTERNET RESEARCH.
