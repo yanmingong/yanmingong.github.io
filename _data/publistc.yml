@@ -1,3 +1,23 @@
+- title: "International Conference on Computer Communications and Network (ICCCN 2023)" 
+  image: 
+  description: 
+  authors:
+    X Wei, L Fan, Y Guo, Y Gong, Z Han and Y Wang,
+  link:
+    url: 
+    display: "Quantum Assisted Scheduling Algorithm for Federated Learning in Distributed Networks"
+  highlight: 0
+  
+- title: "the 1st International Workshop on Ethics and Bias of Artificial Intelligence in Clinical Applications, EBAIC 2023" 
+  image: 
+  description: 
+  authors:
+    T Wang, K Zhang, R Choo, J Cai, Y Gong, and Y Guo
+  link:
+    url: 
+    display: "Analyzing the Impact of Personalization on Fairness in Federated Learning for Healthcare"
+  highlight: 0
+  
 - title: "IEEE Conference on Communications and Network Security (CNS) 2022" 
   image: 
   description: 
