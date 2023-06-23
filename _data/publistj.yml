@@ -8,6 +8,16 @@
   highlight: 0
   news2:
 
+- title:  Journal of Medical Internet Research (2023).
+  image: 
+  authors: T. Wang, Y. Du, Y. Gong, K. Choo, and Y. Guo
+  description: 
+  link:
+    display: "Applications of Federated Learning in Mobile Health: Scoping Review"
+    url: 
+  highlight: 0
+  news2:
+
 - title:  IEEE Transactions on Mobile Computing (TMC) (2022).
   image: 
   authors: Z Zhang, Z Gao, Y Guo, and Y Gong
