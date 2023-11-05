@@ -1,0 +1,35 @@
+#- name:
+#  photo: rock.jpg
+#  info:
+#  email:
+#  number_educ:
+#  education1:
+#  education2:
+#  education3:
+#  education4:
+  
+- name: Shamima Akter
+  photo: Shamima.jpg
+  info: Master student
+  email: shamima.akter@my.utsa.edu
+  number_educ: 0
+
+- name: Sheng Li
+  photo: Sheng.jpg
+  info: Master student
+  email: sheng.li@my.utsa.edu
+  number_educ: 0
+
+- name: Harsh Choudhary
+  photo: Harsh.jpg
+  info: Master student
+  email: harsh.choudhary@my.utsa.edu
+  number_educ: 0
+  education1:
+
+- name: Aman Yadav
+  photo: Aman.png
+  info: Master student
+  email: aman.yadav@my.utsa.edu
+  number_educ: 0
+  education1:
