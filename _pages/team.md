@@ -131,6 +131,7 @@ permalink: /team/
 </div>
 {% endif %}
 
+<!--
 ### Undergraduate Students
 {% assign number_printed = 0 %}
 {% for member in site.data.undergrads %}
@@ -184,6 +185,8 @@ permalink: /team/
 {% if even_odd == 1 %}
 </div>
 {% endif %}
+
+-->
 
 ### Alumni
 {% assign number_printed = 0 %}
