@@ -27,12 +27,13 @@
   photo: Andy.jpg
   info: Undergraduate student
   email: xlm203@my.utsa.edu
-  number_educ: 0
-  education1:
+  number_educ: 1
+  education1: Software Engineer at Dell 
+
 
 - name: Mario Alday
   photo: Mario.png
   info: Undergraduate student
   email: aldaymario25@gmail.com
-  number_educ: 0
-  education1:
+  number_educ: 1
+  education1: C++ Developer at Amadeus
