@@ -20,6 +20,7 @@ The Trustworthy and Intelligent Networked Systems (TINS) Lab at University of Te
 We are grateful for funding from National Science Foundation, Air Force Research Lab, Department of Defense, and University of Texas Systems.
 <center><figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_NSF.png" style="width: 150px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_NIH.png" style="width: 150px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_AFRL.png" style="width: 150px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_ARO.png" style="width: 150px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_UTS.jpg" style="width: 150px">
