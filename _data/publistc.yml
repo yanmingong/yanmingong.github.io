@@ -7,7 +7,17 @@
     url: 
     display: "Workie-Talkie: Accelerating Federated Learning by Overlapping Computing and Communications via Contrastive Regularization"
   highlight: 0
-  
+
+- title: "Thirty-seventh Conference on Neural Information Processing Systems (NeurIPS) Workshop on New Frontiers in Graph Learning 2023" 
+  image: 
+  description: 
+  authors:
+    Z. Gao, Y. Gong, and Y. Guo,
+  link:
+    url: 
+    display: "One Node Per User: Node-Level Federated Learning for Graph Neural Networks"
+  highlight: 0
+
 - title: "International Conference on Computer Communications and Network (ICCCN 2023)" 
   image: 
   description: 
