@@ -28,6 +28,7 @@ We are grateful for funding from National Science Foundation, NIH, CISCO, Air Fo
 </figure></center>
 
 #### Active Projects
+- Enhancing Equity in Opioid Medication Treatment: Confronting Disparities and Biases for Medicaid Beneficiaries with Responsive Machine Learning, NIH AIM-AHEAD, 09/17/2023 - 09/16/2025, Lead PI.
 
 - Across Hospitals and Devices: Collaborative Stroke Risk Prediction via Federated Learning, CISCO Research, 06/01/2023 - 05/31/2024, Sole PI.
 
