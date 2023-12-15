@@ -1,29 +1,10 @@
-- title: IEEE ICDCS WKSHPS, Vienna, Austria, July 2-5, 2018. 
-  image: SCAUweb.jpg
+- title: arXiv preprint arXiv:2005.07890 (2020).
+  image: 
   description:
   authors:
-     W Cui, J Yu, Y Gong, E Chan-Tin
+     Z. Huang and Y. Gong
   link:
-    url: 08416438.pdf
-    display: "Realistic Cover Traffic to Mitigate Website Fingerprinting Attacks"
+    url: 
+    display: "Differentially private ADMM for convex distributed learning: Improved accuracy via multi-step approximation"
   highlight: 0
 
-- title: IEEE CNS (Poster), Beijing, China, May 30 - June 1, 2018. 
-  image: SCAUweb.jpg
-  description:
-  authors:
-     R Hu, Y Gong
-  link:
-    url: 08433166.pdf
-    display: "Secret Dispersion: Secure Data Delivery in Cyber Physical System"
-  highlight: 0
-
-- title: IEEE INFOCOM WKSHPS, Honolulu, HI, April 15-19, 2018.
-  image: SCAUweb.jpg
-  description:
-  authors:
-     Y Guo, Y Gong, L. Njilla, C. Kamhoua
-  link:
-    url: 08406833.pdf
-    display: "A Stochastic Game Approach to Cyber-Physical Security with Applications to Smart Grid"
-  highlight: 0
