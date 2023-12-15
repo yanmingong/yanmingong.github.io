@@ -141,3 +141,12 @@ permalink: /publications/
 
 {% endfor %}
 -->
+
+#### Technical Report
+
+{% for publi in site.data.publistw %}
+
+1. {{ publi.link.display }} <br />
+  <em>{{ publi.authors }} </em><br />{{ publi.title }}
+
+{% endfor %}
