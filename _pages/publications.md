@@ -122,7 +122,7 @@ permalink: /publications/
 
 {% endfor %}
 
-#### Conference Proceedings
+#### Conference Papers
 
 {% for publi in site.data.publistc %}
 
