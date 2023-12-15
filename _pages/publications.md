@@ -142,7 +142,7 @@ permalink: /publications/
 {% endfor %}
 -->
 
-#### Technical Report
+#### Preprints
 
 {% for publi in site.data.publistw %}
 
