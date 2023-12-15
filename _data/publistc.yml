@@ -58,7 +58,7 @@
     display: "Hybrid Local SGD for Federated Learning with Heterogeneous Communications"
   highlight: 1
 
-- title: IEEE ICC, Seoul, South Korea, May 16–20, 2022
+- title: IEEE ICC 2022
   image: 
   description: 
   authors:
@@ -78,7 +78,7 @@
     display: "Towards A Model For Inclusive Healthcare Access Post COVID-19"
   highlight: 0
 
-- title: "IJCAI 2021, Montreal-themed Virtual Reality, Aug. 21 - 26, 2021. (Acceptance ratio: 13.9%)" 
+- title: "IJCAI 2021 2021. (Acceptance ratio: 13.9%)" 
   image: rui_IoTJ.png
   description: This work jointly investigates two ciritical concerns of federated learning, privacy and communication efficiency, and utilizes sparsification as a tool to achieve differential privacy and communication efficiency at the same time. To help reduce the privacy cost, we also integrates acceleration tecniques to offset the negative impact of sparsification on convergence rate.  
   authors:
@@ -98,7 +98,7 @@
     display: "Discounting Lives: Analyzing the causes of Hispanic Adversity raging in the Healthcare sector during Covid-19 using Cumulative Inequality Theory"
   highlight: 0
   
-- title: IEEE GLOBECOM, Taipei, Taiwan, Dec. 7-11, 2020.
+- title: IEEE GLOBECOM 2020.
   image: SCAUweb.jpg
   description:
   authors:
@@ -108,7 +108,7 @@
     display: "Geo-Indistinguishability for Crowdsourced-Based Radio Environment Map Construction"
   highlight: 0
 
-- title: IEEE GLOBECOM, Taipei, Taiwan, Dec. 7-11, 2020.
+- title: IEEE GLOBECOM 2020.
   image: SCAUweb.jpg
   description:
   authors:
@@ -119,7 +119,7 @@
   highlight: 0
 
 
-- title: IEEE GLOBECOM, Taipei, Taiwan, Dec. 7-11, 2020.
+- title: IEEE GLOBECOM 2020.
   image: gao_globecom2.png
   description: Recent studies show that graph-based machine learning models are especially vulnerable to adversarial perturbations due to the non i.i.d nature of graph data. By adding or deleting a small number of edges in the graph, adversaries could greatly change the graph label predicted by a graph classification model. In this work, we propose to build a smoothed graph classification model with certified robustness guarantee. 
   authors:
@@ -139,7 +139,7 @@
     display: "COVID-19 Vulnerability Map Construction via Location Privacy Preserving Mobile Crowdsourcing"
   highlight: 0
 
-- title: IEEE ICC, Dublin, Ireland, June 7-11, 2020. 
+- title: IEEE ICC 2020. 
   image: SCAUweb.jpg
   description:
   authors:
@@ -149,7 +149,7 @@
     display: "Privacy-Preserving Personalized Federated Learning"
   highlight: 0
 
-- title: IEEE GLOBECOM, Hawaii, Dec. 9-13, 2019. 
+- title: IEEE GLOBECOM 2019. 
   image: rui_globecom19.png
   description: Social recommendations rely on one’s social connections to make personalized recommendations. However, an adversarial party could compromise the recommendations by exploiting users' social connections. We propose targeted poisoning attacks against social recommender systems by injecting fake ratings and social connections.
   authors:
@@ -179,7 +179,7 @@
     display: "Dynamic Cache Placement, Node Association, and Power Allocation in Fog Aided Networks"
   highlight: 0
 
-- title: "EAI SecureComm, Orlando, Oct. 23-25, 2019. (Acceptance ratio: 25.5%)"
+- title: "EAI SecureComm 2019. (Acceptance ratio: 25.5%)"
   image: SCAUweb.jpg
   description:
   authors:
@@ -199,7 +199,7 @@
     display: "Practical Collaborative Learning for Crowdsensing in the Internet of Things with Differential Privacy"
   highlight: 0
 
-- title: IEEE ICC, Kansas City, MO, May 20-24, 2018.
+- title: IEEE ICC 2018.
   image: SCAUweb.jpg
   description:
   authors:
@@ -220,7 +220,7 @@
     display: "A Cloud-Based Secure and Privacy-Preserving Clustering Analysis of Infectious Disease"
   highlight: 0  
   
-- title: IEEE GLOBECOM , Singapore, December 4-8, 2017. 
+- title: IEEE GLOBECOM 2017. 
   image: SCAUweb.jpg
   description:
   authors:
@@ -230,7 +230,7 @@
     display: "Primary Users' Operational Privacy Preservation via Data-Driven Optimization **[Best Paper Award]**"
   highlight: 0
 
-- title: "IEEE CNS, Las Vegas, NV, October 9-11, 2017. (Acceptance ratio: 29.9%)"
+- title: "IEEE CNS 2017. (Acceptance ratio: 29.9%)"
   image: SCAUweb.jpg
   description:
   authors:
