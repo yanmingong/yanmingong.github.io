@@ -131,6 +131,7 @@ permalink: /publications/
 
 {% endfor %}
 
+<!--
 #### Workshop Papers and Posters
 
 {% for publi in site.data.publistw %}
@@ -139,3 +140,4 @@ permalink: /publications/
   <em>{{ publi.authors }} </em><br />{{ publi.title }}
 
 {% endfor %}
+-->
