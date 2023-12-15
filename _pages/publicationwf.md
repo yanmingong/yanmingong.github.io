@@ -9,7 +9,7 @@ permalink: /publicationwf/
 
 <!-- ### Publications -->
 
-### Recent Publications
+### Selected Publications
 
 (For a full list see [below](#full-list) or go to [Google Scholar](https://scholar.google.com/citations?user=o3BGIEMAAAAJ&hl=en))
 
