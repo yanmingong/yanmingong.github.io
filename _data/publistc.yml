@@ -1,4 +1,4 @@
-- title: "International Conference on Computer Vision (ICCV) 2023, Paris, France, October 2 - 6, 2023. (Acceptance ratio: 26.15%)" 
+- title: "International Conference on Computer Vision (ICCV) 2023. (Acceptance ratio: 26.15%)" 
   image: 
   description: 
   authors:
@@ -48,7 +48,7 @@
     display: "Agent-Level Differentially Private Federated Learning via Compressed Model Perturbation"
   highlight: 0
   
-- title: "The International Conference on Learning Representations (ICLR),  Virtual, April 25-29, 2022. (Spotlight, acceptance ratio: 5%)" 
+- title: "The International Conference on Learning Representations (ICLR) 2022. (Spotlight, acceptance ratio: 5%)" 
   image: HLSGD.png
   description: In light of both device-to-device (D2D) and device-to-server (D2S) cooperation opportunities in modern communication networks, this paper proposes a new federated learning approach where devices are grouped into a set of disjoint clusters with high D2D communication bandwidth. The new approach enables us to largely reduce the training latency of federated learning. 
   authors:
