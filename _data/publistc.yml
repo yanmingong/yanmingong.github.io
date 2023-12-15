@@ -219,6 +219,36 @@
     url: 
     display: "A Cloud-Based Secure and Privacy-Preserving Clustering Analysis of Infectious Disease"
   highlight: 0  
+
+- title: IEEE ICDCS WKSHPS, Vienna, Austria, July 2-5, 2018. 
+  image: SCAUweb.jpg
+  description:
+  authors:
+     W Cui, J Yu, Y Gong, E Chan-Tin
+  link:
+    url: 08416438.pdf
+    display: "Realistic Cover Traffic to Mitigate Website Fingerprinting Attacks"
+  highlight: 0
+
+- title: IEEE CNS (Poster), Beijing, China, May 30 - June 1, 2018. 
+  image: SCAUweb.jpg
+  description:
+  authors:
+     R Hu, Y Gong
+  link:
+    url: 08433166.pdf
+    display: "Secret Dispersion: Secure Data Delivery in Cyber Physical System"
+  highlight: 0
+
+- title: IEEE INFOCOM WKSHPS, Honolulu, HI, April 15-19, 2018.
+  image: SCAUweb.jpg
+  description:
+  authors:
+     Y Guo, Y Gong, L. Njilla, C. Kamhoua
+  link:
+    url: 08406833.pdf
+    display: "A Stochastic Game Approach to Cyber-Physical Security with Applications to Smart Grid"
+  highlight: 0
   
 - title: IEEE GLOBECOM 2017. 
   image: SCAUweb.jpg
@@ -229,7 +259,7 @@
     url: 08254108.pdf
     display: "Primary Users' Operational Privacy Preservation via Data-Driven Optimization **[Best Paper Award]**"
   highlight: 0
-
+  
 - title: "IEEE Conference on Communications and Network Security (CNS) 2017. (Acceptance ratio: 29.9%)"
   image: SCAUweb.jpg
   description:
