@@ -2,7 +2,7 @@
   image: fedcr.png
   description: The paper presents FedCR, a new approach for federated learning on edge devices, which speeds up training by overlapping computing and communication tasks. It addresses challenges like data heterogeneity and device variability, resulting in faster, more accurate learning with reduced memory requirements.
   authors:
-    R. Chen, Q. Wan, P. Prakash, L. Zhang, X. Yuan, Y. Gong, X. Fu, and M. Pan,
+    R. Chen, Q. Wan, P. Prakash, L. Zhang, X. Yuan, Y. Gong, X. Fu, and M. Pan
   link:
     url: 
     display: "Workie-Talkie: Accelerating Federated Learning by Overlapping Computing and Communications via Contrastive Regularization"
