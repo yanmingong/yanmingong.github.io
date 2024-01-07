@@ -86,7 +86,7 @@
   link:
     url: 
     display: "Federated Learning with Sparsification-Amplified Privacy and Adaptive Optimization"
-  highlight: 0
+  highlight: 1
   
 - title: Proceedings of the 54th Hawaii International Conference on System Sciences 2021.
   image: SCAUweb.jpg
