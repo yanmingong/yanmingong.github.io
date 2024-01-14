@@ -28,7 +28,16 @@
   education3:
   research: Security and Privacy
 
-
+- name: Xiangxing Guo
+  photo: Xiangxing.jpg
+  info: PhD Student, started Fall 2023
+  email: xiangxing.guo@my.utsa.edu
+  number_educ: 1
+  education1: M.S., Chongqing University
+  education2: 
+  education3:
+  research: AI for Health
+  
 # - name: "This could be you !"
 #   photo: rock.jpg
 #   info: See <a href="http://www.allanlab.org/vacancies">openings</a> for more info
