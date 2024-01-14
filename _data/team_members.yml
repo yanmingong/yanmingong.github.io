@@ -37,6 +37,16 @@
   education2: 
   education3:
   research: AI for Health
+
+- name: Guohao Yang
+  photo: Guohao.jpeg
+  info: PhD Student, started Spring 2024
+  email: guohao.yang@my.utsa.edu
+  number_educ: 1
+  education1: M.S., Peking University
+  education2: 
+  education3:
+  research: 
   
 # - name: "This could be you !"
 #   photo: rock.jpg
