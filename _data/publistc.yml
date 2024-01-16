@@ -1,3 +1,13 @@
+- title: "The International Conference on Learning Representations (ICLR) 2024. (Acceptance ratio: 31%)" 
+  image: loha.png
+  description: We introduce LyCORIS, an open-source library for parameter-efficient Stable Diffusion fine-tuning, propose a comprehensive evaluation framework, and perform extensive experiments to compare different methods.
+  authors:
+    S. Yeh, Y. Hsieh, Z. Gao, B. Yang, G. Oh, and Y. Gong
+  link:
+    url: 
+    display: "Navigating Text-To-Image Customization: From LyCORIS Fine-Tuning to Model Evaluation"
+  highlight: 1
+  
 - title: "International Conference on Computer Vision (ICCV) 2023. (Acceptance ratio: 26.15%)" 
   image: fedcr.png
   description: The paper presents FedCR, a new approach for federated learning on edge devices, which speeds up training by overlapping computing and communication tasks. It addresses challenges like data heterogeneity and device variability, resulting in faster, more accurate learning with reduced memory requirements.
