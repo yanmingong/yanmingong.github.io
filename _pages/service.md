@@ -8,6 +8,7 @@ permalink: /service/
 ### Professional Activities
 
 #### Editorial Board
+- Associate Editor, IEEE Transactions on Dependable and Secure Computing, Nov 2023 - present
 - Associate Editor, ACM Computing Surveys, May 2022 - present
 - Associate Editor, IEEE Wireless Communications, Jan. 2019 - present
 
