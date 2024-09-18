@@ -46,7 +46,17 @@
   education1: M.S., Peking University
   education2: 
   education3:
-  research: 
+  research: Generative AI
+
+- name: Vahideh Hashempour
+  photo: Vahideh.jpg
+  info: PhD Student, started Fall 2024
+  email: vahideh.hashempour@my.utsa.edu
+  number_educ: 1
+  education1: M.S., University of Texas at San Antonio
+  education2: 
+  education3:
+  research: AI for Health
   
 # - name: "This could be you !"
 #   photo: rock.jpg
