@@ -28,11 +28,11 @@ permalink: /team/
 <div class="col-sm-6 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4>{{ member.name }}</h4>
-  <i>{{ member.info }}<br>email: <{{ member.email }}>
+  <i>{{ member.info }}<br>email: <{{ member.email }}></i>
   {% if member.number_webpage == 1 %}
-   webpage: <{{ member.webpage }}>
+   <i>webpage: <{{ member.webpage }}></i>
   {% endif %}
-    </i>
+    
   <ul style="overflow: hidden">
  
    
