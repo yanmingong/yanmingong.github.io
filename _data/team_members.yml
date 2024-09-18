@@ -2,6 +2,7 @@
   photo: Zhidong.jpg
   info: PhD Student, started Fall 2019
   email: zhidong.gao@my.utsa.edu
+  number_webpage: 0
   number_educ: 1
   education1: B.S., Chongqing University
   education2: 
@@ -14,16 +15,17 @@
   email: yu.zhang@my.utsa.edu
   number_webpage: 1
   webpage: https://yu-zhang-eugene.github.io/
-  number_educ: 3
+  number_educ: 2
   education1: B.S., Wuhan University of Technology
   education2: MIS, The University of Texas at Dallas
-  education3: Webpage: https://yu-zhang-eugene.github.io/
+  education3: 
   research: Internet of Things and Edge Computing
 
 - name: Zhenxiao Zhang
   photo: Zhenxiao.jpg
   info: PhD Student, started Fall 2020
   email: hizxzhang@gmail.com
+  number_webpage: 0
   number_educ: 1
   education1: B.S./M.S., East China University of Science and Technology
   education2: 
@@ -34,6 +36,7 @@
   photo: Xiangxing.jpeg
   info: PhD Student, started Fall 2023
   email: xiangxing.guo@my.utsa.edu
+  number_webpage: 0
   number_educ: 1
   education1: M.S., Chongqing University
   education2: 
@@ -44,6 +47,7 @@
   photo: Guohao.jpg
   info: PhD Student, started Spring 2024
   email: guohao.yang@my.utsa.edu
+  number_webpage: 0
   number_educ: 1
   education1: M.S., Peking University
   education2: 
@@ -54,6 +58,7 @@
   photo: Vahideh.jpg
   info: PhD Student, started Fall 2024
   email: vahideh.hashempour@my.utsa.edu
+  number_webpage: 0
   number_educ: 1
   education1: M.S., University of Texas at San Antonio
   education2: 
