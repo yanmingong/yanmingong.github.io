@@ -28,9 +28,9 @@ permalink: /team/
 <div class="col-sm-6 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4>{{ member.name }}</h4>
-  <i>{{ member.info }}<br>email: <{{ member.email }}></i>
+  <i>{{ member.info }}<br>email: <{{ member.email }}>
   {% if member.number_webpage == 1 %}
-  <i> <a href= member.webpage>{{ member.webpage }}</a></i>i
+  <a href= member.webpage>{{ member.webpage }}</a></i>i
   {% endif %}
   <ul style="overflow: hidden">
  
