@@ -31,7 +31,7 @@ permalink: /team/
   <i>{{ member.info }}<br>email: <{{ member.email }}></i>
   <ul style="overflow: hidden">
  {% if member.number_webpage == 1 %}
-  <li> {{ member.webpage }} </li>
+  <i>{{ member.info }}<br>webpage: <{{ member.webpage }}></i>
   {% endif %}
    
   {% if member.number_educ == 1 %}
