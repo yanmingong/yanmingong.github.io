@@ -30,7 +30,7 @@ permalink: /team/
   <h4>{{ member.name }}</h4>
   <i>{{ member.info }}<br>email: <{{ member.email }}></i>
   {% if member.number_webpage == 1 %}
-  <i><br>webpage: [{{ member.webpage }}](member.webpage)</i>
+  <i> <a href="member.webpage">{{ member.webpage }}</a></i>i
   {% endif %}
   <ul style="overflow: hidden">
  
