@@ -32,6 +32,7 @@ permalink: /team/
   {% if member.number_webpage == 1 %}
    webpage: <{{ member.webpage }}>
   {% endif %}
+    </i>
   <ul style="overflow: hidden">
  
    
