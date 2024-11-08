@@ -1,3 +1,14 @@
+- name: Zhidong Gao
+  photo: Zhidong.jpg
+  initial_employment: Lecturer, Computer Science, Shanxi University, China
+  email: zhidong.gao@my.utsa.edu
+  info: Ph.D., December 2024 
+  number_educ: 1
+  education1: B.S., Chongqing University
+  education2: 
+  education3:
+  research: Machine Learning
+  
 - name: Rui Hu
   photo: hu.jpg
   initial_employment: Assistant Professor, Computer Science & Engineering, University of Nevada, Reno
