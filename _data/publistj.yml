@@ -8,6 +8,15 @@
   highlight: 0
   news2:
 
+- title:  IEEE Transactions on Mobile Computing (TMC) (2024).
+  image: 
+  authors: Y. Li, X. Qin, J. Geng, R. Chen, Y. Hou, Y. Gong, M. Pan, and P. Zhang
+  description: 
+  link:
+    display: "REWAFL: Residual Energy and Wireless Aware Participant Selection for Efficient Federated Learning over Mobile Devices"
+    url: 
+  highlight: 0
+  news2:
 
 - title:  IEEE Transactions on Mobile Computing (TMC) (2023).
   image: 
