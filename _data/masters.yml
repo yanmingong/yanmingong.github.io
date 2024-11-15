@@ -14,11 +14,11 @@
   email: shamima.akter@my.utsa.edu
   number_educ: 0
 
-- name: Sheng Li
-  photo: sheng.jpeg
-  info: Master student
-  email: sheng.li@my.utsa.edu
-  number_educ: 0
+# - name: Sheng Li
+#   photo: sheng.jpeg
+#   info: Master student
+#   email: sheng.li@my.utsa.edu
+#   number_educ: 0
 
 - name: Harsh Choudhary
   photo: Harsh.jpg
