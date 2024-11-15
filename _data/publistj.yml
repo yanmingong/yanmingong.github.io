@@ -47,7 +47,17 @@
     url: 
   highlight: 0
   news2:
-  
+
+- title:  Journal of Healthcare Informatics Research (2024).
+  image: 
+  authors: T. Wang, K. Zhang, J. Cai, Y. Gong, K.K.R. Choo, and Y. Guo
+  description: 
+  link:
+    display: "Analyzing the Impact of Personalization on Fairness in Federated Learning for Healthcare"
+    url: 
+  highlight: 0
+  news2:
+
 - title:  IEEE Transactions on Wireless Communications (TWC) (2023).
   image: 
   authors: X Dong, Z You, X Liu, Y Guo, Y Shen, and Y Gong
