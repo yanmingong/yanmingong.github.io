@@ -1,13 +1,13 @@
-- name: Zhidong Gao
-  photo: Zhidong.jpg
-  info: PhD Student, started Fall 2019
-  email: zhidong.gao@my.utsa.edu
-  number_webpage: 0
-  number_educ: 1
-  education1: B.S., Chongqing University
-  education2: 
-  education3:
-  research: Machine Learning
+# - name: Zhidong Gao
+#   photo: Zhidong.jpg
+#   info: PhD Student, started Fall 2019
+#   email: zhidong.gao@my.utsa.edu
+#   number_webpage: 0
+#   number_educ: 1
+#   education1: B.S., Chongqing University
+#   education2: 
+#   education3:
+#   research: Machine Learning
  
 - name: Yu Zhang
   photo: Yu.jpg
