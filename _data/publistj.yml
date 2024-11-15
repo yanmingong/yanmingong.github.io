@@ -18,6 +18,16 @@
   highlight: 0
   news2:
 
+- title:  IEEE Internet of Things Journal (IoT-J) (2024).
+  image: 
+  authors: H. Su, P. Prakkash, R. Chen, Y. Gong, R. Yu, X. Fu, and M. Pan
+  description: 
+  link:
+    display: "DAFL: Device-to-Device Transmissions for Delay Efficient Federated Learning over Mobile Devices"
+    url: 
+  highlight: 0
+  news2:
+
 - title:  IEEE Transactions on Mobile Computing (TMC) (2023).
   image: 
   authors: R. Hu, Y. Gong, and Y. Guo
