@@ -1,3 +1,13 @@
+- title: "IEEE International Conference on Computer Communications 2025. (Acceptance ratio: 18.65%)" 
+  image: 
+  description: 
+  authors:
+    Z. Gao, Z. Zhang, Y. Gong, and Y. Guo
+  link:
+    url: 
+    display: "Federated Adaptive Fine-Tuning of Large Language Models with Heterogeneous Quantization and LoRA"
+  highlight: 0
+  
 - title: "The International Conference on Learning Representations (ICLR) 2024. (Acceptance ratio: 31%)" 
   image: loha.png
   description: We introduce LyCORIS, an open-source library for parameter-efficient Stable Diffusion fine-tuning, propose a comprehensive evaluation framework, and perform extensive experiments to compare different methods.
