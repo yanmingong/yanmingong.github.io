@@ -18,6 +18,16 @@
   highlight: 0
   news2:
 
+- title:  IEEE Transactions on Network Science and Engineering (TNSE) (2024).
+  image: 
+  authors: Y. Zhang, Y. Gong, L. Fan, Y. Wang, Z. Han, and Y. Guo 
+  description: 
+  link:
+    display: "Quantum-Assisted Joint Caching and Power Allocation for Integrated Satellite-Terrestrial Networks"
+    url: 
+  highlight: 0
+  news2:
+  
 - title:  IEEE Internet of Things Journal (IoT-J) (2024).
   image: 
   authors: H. Su, P. Prakkash, R. Chen, Y. Gong, R. Yu, X. Fu, and M. Pan
