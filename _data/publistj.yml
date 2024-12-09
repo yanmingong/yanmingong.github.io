@@ -27,6 +27,16 @@
     url: 
   highlight: 0
   news2:
+
+- title:  IEEE Transactions on Mobile Computing (TMC) (2024).
+  image: 
+  authors: Y. Zhang, Y. Gong, L. Fan, Y. Wang, Z. Han, and Y. Guo
+  description: 
+  link:
+    display: "Quantum-Assisted Online Task Offloading and Resource Allocation in MEC-Enabled Satellite-Aerial-Terrestrial Integrated Networks"
+    url: 
+  highlight: 0
+  news2:
   
 - title:  IEEE Transactions on Network Science and Engineering (TNSE) (2024).
   image: 
