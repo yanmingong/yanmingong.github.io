@@ -48,6 +48,16 @@
   highlight: 0
   news2:
 
+- title:  IEEE Transactions on Vehicular Technology (TVT) (2023).
+  image: 
+  authors: Y. Zhang, Y. Gong, and Y. Guo
+  description: 
+  link:
+    display: "Energy-Efficient Resource Management for Multi-UAV-Enabled Mobile Edge Computing"
+    url: 
+  highlight: 0
+  news2:
+  
 - title:  IEEE Transactions on Mobile Computing (TMC) (2023).
   image: 
   authors: R. Hu, Y. Gong, and Y. Guo
