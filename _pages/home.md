@@ -51,6 +51,7 @@ Yanmin Gong is an associate professor and Microsoft President’s Endowed Fellow
 My current research interests include edge intelligence, trustworthy artificial intelligence, data security and privacy, and digital health.
     
 ### Selected Honors and Awards
+- mHealth Scholar for NIH mHealth training institute, 2025
 - Cisco Faculty Research Award, 2022
 - NSF CAREER Award, 2021
 - IEEE Computer Society Technical Committee on Scalable Computing (TCSC) Early Career Researchers Award for Excellence in Scalable Computing, 2021
