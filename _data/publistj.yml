@@ -37,26 +37,6 @@
     display:  "SAFE: Secure Appliance Scheduling for Flexible and Efficient Energy Consumption for Smart Home IoT"
   highlight: 0
   
-- title: IEEE Access, vol. 8, pp. 62415-62422 (2020).
-  image: TBG_ARPES.png
-  description:
-  authors: G Zhang, H Qin, Y Ke, J Chen, Y Gong
-  link:
-    url: 09049392.pdf
-    display:  "Phased Groupwise Face Alignment"
-  highlight: 0
-  news2:
-
-- title: IEEE Access, vol. 8, pp. 114884-114891 (2020).
-  image: TBG_ARPES.png
-  description:
-  authors: G Zhang, L Pan, J Chen, Y Gong, F Liu
-  link:
-    url: 09120057.pdf
-    display:  "Joint Alignment of Image Faces"
-  highlight: 0
-  news2:
-  
 - title: EAI Transactions on Security and Safety, vol. 6, no. 20 (2019).
   image: TBG_ARPES.png
   description: 
