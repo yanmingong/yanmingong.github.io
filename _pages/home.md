@@ -62,8 +62,9 @@ My current research interests include edge intelligence, trustworthy artificial 
 - UT Rising STARs Award, 2019
 - President's Cup Award, Oklahoma State University, 2018
 - Best Paper Award at IEEE GLOBECOM, 2017
-<!-- - Outstanding Achievement Award, University of Florida, 2012 -- 2013
-- Guanghua Scholarship for Excellent Students, Tsinghua University, 2011
-- Providence Scholarship, Tsinghua University, 2011
-- Outstanding Graduate Award, Huazhong University of Science and Technology, 2009
-- National Scholarship, Ministry of Education of China, 2008 -->
+<!-- - Outstanding Achievement Award, University of Florida, 2012 -- 2013-->
+<!--- Guanghua Scholarship for Excellent Students, Tsinghua University, 2011-->
+<!--- Providence Scholarship, Tsinghua University, 2011-->
+<!--- Outstanding Graduate Award, Huazhong University of Science and Technology, 2009-->
+<!--- National Scholarship, Ministry of Education of China, 2008 -->
+<!---->
