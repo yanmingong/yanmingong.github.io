@@ -28,7 +28,7 @@ permalink: /service/
 - International Conference on Learning Representations (ICLR), 2025
 - IEEE International Conference on Pervasive Computing and Communications (PerCom), 2024
 - IEEE International Conference on Sensing, Communication, and Networking (SECON), 2024
-- IEEE International Conference on Computer Communications (INFOCOM), 2017 -- 2024
+- IEEE International Conference on Computer Communications (INFOCOM), 2017 -- 2024, 2026
 - AAAI Conference on Artificial Intelligence (AAAI), 2023 -- 2025
 - IEEE  Conference on Communications and Network Security (CNS), 2017, 2018, 2021 -- 2022
 - IEEE Global Communications Conference, 2021 -- 2022
