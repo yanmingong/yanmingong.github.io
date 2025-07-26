@@ -14,7 +14,7 @@ permalink: /outreach/
 	
 
 ### Outreach for Women
-
+- Attending the panel discussion hosted by WICE, N2Women and ACM-W in IEEE INFOCOM 2025.
 - Nominated female candidates for N2Women Rising Stars 2022 as N2Women Awards Co-Chair (2022-2024)
 - Participated in the joint N2Women and WICE professional development workshop, Kansas City, MO (2018)
 - Participated in the 1st Workshop for Women in Cyber Security (CyberW) collocated with ACM CCS, Dallas, TX (2017)
@@ -29,9 +29,10 @@ permalink: /outreach/
     <img src="{{ site.url }}{{ site.baseurl }}/images/outreachpic/N2Women.png" alt="N2Women" style="height: 50px" itemprop="image">
 </center>
 
-### Outreach for Minorities
+<!--### Outreach for Minorities
 - Served as a faculty mentor of the <a href="https://ok-lsamp.okstate.edu/">Oklahoma Louis Stokes Alliance for Minority Participation (OK-LSAMP)</a> (2017-2019)
  	<center><img src="{{ site.url }}{{ site.baseurl }}/images/outreachpic/OK-LSAMP.png" alt="OK-LSAMP" style="width: 250px; height: 250px" itemprop="image"></center>
+  -->
 
 <!-- ![center-aligned-image]({{ site.url }}{{ site.baseurl }}/images/respic/research_key.jpg){: .align-center} -->
 <!-- </div> -->
