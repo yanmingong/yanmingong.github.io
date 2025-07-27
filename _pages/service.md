@@ -22,7 +22,7 @@ permalink: /service/
 #### Community Service
 - Reviewer of [US-UK Privacy Enhancing Technologies (PETs) Prize Challenge](https://www.drivendata.org/competitions/98/nist-federated-learning-1/), 2022
 - Awards Co-Chair of [N2Women](https://n2women.comsoc.org/) Board 2022 - 2024
-- National Science Foundation (NSF) Panelist, 2017 -- 2019, 2021-2022
+- National Science Foundation (NSF) Panelist, 2017 -- 2019, 2021-2022, 2025
 
 #### TPC Members
 - International Conference on Learning Representations (ICLR), 2025
