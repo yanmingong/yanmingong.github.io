@@ -34,7 +34,27 @@
   email: sheng.li@my.utsa.edu
   number_educ: 0
   initial_employment: Tower Semiconductor
-  
+
+- name: Shamima Akter
+  photo: Shamima.jpg
+  info: Master student
+  email: shamima.akter@my.utsa.edu
+  number_educ: 0
+
+- name: Harsh Choudhary
+  photo: Harsh.jpg
+  info: Master student
+  email: harsh.choudhary@my.utsa.edu
+  number_educ: 0
+  education1:
+
+- name: Aman Yadav
+  photo: Aman.jpg
+  info: Master student
+  email: aman.yadav@my.utsa.edu
+  number_educ: 0
+  education1:
+
 # - name: Shahira Hany
 #   photo: Shahira.jpg
 #   info: PhD Student, started Fall 2020
