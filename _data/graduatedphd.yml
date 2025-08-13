@@ -33,40 +33,40 @@
   education3:
   research: Security and Privacy
 
-- name: Talha Khan
-  photo: Talha.jpg
-  info: B.S., May 2020
-  email: talha0128@gmail.com
-  number_educ: 1
-  education1: Honorable Mention by NSF GRFP Fellowship
-  initial_employment: Associate Product Manager at IBM
+# - name: Talha Khan
+#   photo: Talha.jpg
+#   info: B.S., May 2020
+#   email: talha0128@gmail.com
+#   number_educ: 1
+#   education1: Honorable Mention by NSF GRFP Fellowship
+#   initial_employment: Associate Product Manager at IBM
 
-- name: Erick Galicia
-  photo: Erick.jpg
-  info: B.S., May 2021
-  email: erickgalicia7@gmail.com
-  number_educ: 0
-  initial_employment: Systems Design Engineer at AMD
+# - name: Erick Galicia
+#   photo: Erick.jpg
+#   info: B.S., May 2021
+#   email: erickgalicia7@gmail.com
+#   number_educ: 0
+#   initial_employment: Systems Design Engineer at AMD
 
-- name: Andy Hernandez
-  photo: Andy.jpg
-  info: B.S., May 2023
-  email: xlm203@my.utsa.edu
-  number_educ: 0
-  initial_employment: Software Engineer at Dell 
+# - name: Andy Hernandez
+#   photo: Andy.jpg
+#   info: B.S., May 2023
+#   email: xlm203@my.utsa.edu
+#   number_educ: 0
+#   initial_employment: Software Engineer at Dell 
 
 
-- name: Mario Alday
-  photo: Mario.png
-  info: B.S., May 2022
-  email: aldaymario25@gmail.com
-  number_educ: 0
-  initial_employment: C++ Developer at Amadeus
+# - name: Mario Alday
+#   photo: Mario.png
+#   info: B.S., May 2022
+#   email: aldaymario25@gmail.com
+#   number_educ: 0
+#   initial_employment: C++ Developer at Amadeus
 
-- name: Sheng Li
-  photo: sheng.jpeg
-  info: Master student
-  email: sheng.li@my.utsa.edu
-  number_educ: 0
-  initial_employment: Tower Semiconductor
+# - name: Sheng Li
+#   photo: sheng.jpeg
+#   info: Master student
+#   email: sheng.li@my.utsa.edu
+#   number_educ: 0
+#   initial_employment: Tower Semiconductor
 
