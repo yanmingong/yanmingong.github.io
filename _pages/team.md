@@ -15,7 +15,10 @@ permalink: /team/
 <!-- Jump to [phd students](#phd-students), [master and bachelor students](#master-and-bachelor-students), [alumni](#alumni), [administrative support](#administrative-support), [lab visitors](#lab-visitors).
  -->
 
+# Current PhD Students
 ## Current PhD Students
+### Current PhD Students
+
 {% assign number_printed = 0 %}
 {% for member in site.data.team_members %}
 
@@ -240,7 +243,8 @@ permalink: /team/
 <div class="col-sm-6 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4>{{ member.name }}</h4>
-  <i>{{ member.duration }} <br> Role: {{ member.info }}</i>
+  <i>initial employment: {{ member.initial_employment }}</i>
+  <i><br>graduated: {{ member.info }}</i>
 </div>
 
 {% assign number_printed = number_printed | plus: 1 %}
