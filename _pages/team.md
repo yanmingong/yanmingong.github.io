@@ -15,7 +15,7 @@ permalink: /team/
 <!-- Jump to [phd students](#phd-students), [master and bachelor students](#master-and-bachelor-students), [alumni](#alumni), [administrative support](#administrative-support), [lab visitors](#lab-visitors).
  -->
 
-### Current PhD Students
+## Current PhD Students
 {% assign number_printed = 0 %}
 {% for member in site.data.team_members %}
 
