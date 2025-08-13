@@ -55,16 +55,16 @@
   education3:
   research: Generative AI
 
-# - name: Vahideh Hashempour
-#   photo: Vahideh.jpg
-#   info: PhD Student, started Fall 2024
-#   email: vahideh.hashempour@my.utsa.edu
-#   number_webpage: 0
-#   number_educ: 1
-#   education1: M.S., University of Texas at San Antonio
-#   education2: 
-#   education3:
-#   research: AI for Health
+- name: Junaid Khanh 
+  photo: Junaid.jpg
+  info: PhD Student, started Fall 2025
+  email: dianujkotov15@gmail.com
+  number_webpage: 0
+  number_educ: 1
+  education1: M.S., Korea Aerospace University 
+  education2: B.S., National Unviersity of Sciences and Technology, Pakistan
+  education3:
+  research: Trustworthy AI
   
 # - name: "This could be you !"
 #   photo: rock.jpg
