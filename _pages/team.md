@@ -136,7 +136,7 @@ permalink: /team/
 {% if even_odd == 1 %}
 </div>
 {% endif %}
-
+-->
 <!--
 ### Undergraduate Students
 {% assign number_printed = 0 %}
@@ -194,7 +194,7 @@ permalink: /team/
 
 -->
 
-### Alumni
+### Graduated PhD Students
 {% assign number_printed = 0 %}
 {% for member in site.data.graduatedphd %}
 
@@ -256,7 +256,7 @@ permalink: /team/
 {% if even_odd == 1 %}
 </div>
 {% endif %}
-
+-->
 <!-- 
 ## Former visitors, BSc/ MSc students
 <div class="row">
