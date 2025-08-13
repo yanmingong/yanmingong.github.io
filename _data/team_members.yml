@@ -65,6 +65,17 @@
   education2: B.S., National Unviersity of Sciences and Technology, Pakistan
   education3:
   research: Trustworthy AI
+
+- name: Zezhao Guo
+  photo: Zezhao.jpg
+  info: PhD Student, started Fall 2025
+  email: guozezhaozz@gmail.com
+  number_webpage: 0
+  number_educ: 1
+  education1: B.S., Hebei GEO University
+  education2: 
+  education3:
+  research: Trustworthy AI 
   
 # - name: "This could be you !"
 #   photo: rock.jpg
