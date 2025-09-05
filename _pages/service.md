@@ -13,6 +13,7 @@ permalink: /service/
 - Associate Editor, IEEE Wireless Communications, Jan. 2019 - present
 
 #### Conference Organizing
+- Area Chair, The International Conference on Learning Representations (ICLR) 2026
 - Symposium Co-Chair, Communication and Information System Security, IEEE Global Communications Conference (GLOBECOM) 2026
 - Registration Chair, 15th ACM Conference on Security and Privacy in Wireless and Mobile Networks (WiSec) 2022
 - Publication Chair, 16th EAI International Conference on Mobile and Ubiquitous Systems: Computing, Networking and Services (MobiQuitous) 2019
