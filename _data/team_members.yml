@@ -55,16 +55,16 @@
   education3:
   research: Generative AI
 
-- name: Junaid Khanh 
-  photo: Junaid.png
-  info: PhD Student, started Fall 2025
-  email: dianujkotov15@gmail.com
-  number_webpage: 0
-  number_educ: 2
-  education1: M.S., Korea Aerospace University 
-  education2: B.S., National Unviersity of Sciences and Technology, Pakistan
-  education3:
-  research: Trustworthy AI
+# - name: Junaid Khanh 
+#   photo: Junaid.png
+#   info: PhD Student, started Fall 2025
+#   email: dianujkotov15@gmail.com
+#   number_webpage: 0
+#   number_educ: 2
+#   education1: M.S., Korea Aerospace University 
+#   education2: B.S., National Unviersity of Sciences and Technology, Pakistan
+#   education3:
+#   research: Trustworthy AI
 
 - name: Zezhao Guo
   photo: Zezhao.jpg
