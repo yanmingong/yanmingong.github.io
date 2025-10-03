@@ -47,20 +47,20 @@ Yanmin Gong is an associate professor at Texas A&M University, where she directs
 
 ### Research Areas {#areas}
 
+- **Trustworthy AI (Privacy, Security, Fairness).** DP, poisoning/backdoor robustness, and fairness in safety-critical health.  
+  _Representative:_ TIFS’19 (DP-ADMM), TDSC’23, ICC’25 (PFedSAM).
+
+- **Generative & Foundation Models.** Efficient T2I/LLM fine-tuning (LyCORIS, LoRA/LoHa/LoKr) and evaluation; federated adaptation.  
+  _Representative:_ ICLR’24 (LyCORIS), INFOCOM’25 (Fed-FT of LLMs).
+
+- **Edge / Networking / Systems.** MEC, spectrum/crowdsensing privacy, UAV computing, quantum-assisted scheduling.  
+  _Representative:_ TMC/TWC/IoT-J series, TNSE’24.
+
 - **AI for Health.** Multimodal learning for diabetes, OUD retention, ICU risk, and imaging (with clinical partners).  
   _Representative:_ CHASE’25 (MOUD dropout), JMIR’23 (mHealth).
 
 - **Federated & Distributed Learning.** Communication-/resource-efficient FL, cooperative edge learning, heterogeneous quantization/LoRA.  
   _Representative:_ ICLR’22 (Spotlight), ICCV’23 (FedCR), INFOCOM’25 (Fed FT of LLMs), TVT’25 (edge FL scheduling).
-
-- **Trustworthy AI (Privacy, Security, Fairness).** DP, poisoning/backdoor robustness, and fairness in safety-critical health.  
-  _Representative:_ TIFS’19 (DP-ADMM), TDSC’23, ICC’25 (PFedSAM).
-
-- **Edge / Networking / Systems.** MEC, spectrum/crowdsensing privacy, UAV computing, quantum-assisted scheduling.  
-  _Representative:_ TMC/TWC/IoT-J series, TNSE’24.
-
-- **Generative & Foundation Models.** Efficient T2I/LLM fine-tuning (LyCORIS, LoRA/LoHa/LoKr) and evaluation; federated adaptation.  
-  _Representative:_ ICLR’24 (LyCORIS), INFOCOM’25 (Fed-FT of LLMs).
 
 [See Publications »](/publications)
 
