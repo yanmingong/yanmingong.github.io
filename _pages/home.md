@@ -1,7 +1,7 @@
 ---
 title: "Yanmin Gong - Home"
 layout: homelay
-excerpt: "Yanmin Gong at UT San Antonio."
+excerpt: "Yanmin Gong at Texas A&M University."
 sitemap: false
 permalink: /
 ---
