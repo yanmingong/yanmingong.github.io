@@ -27,7 +27,7 @@ These advances bridge wireless networking and modern ML to enable next-generatio
 
 ### People
 - **PI:** Yanmin Gong  
-- **Students:** Zhidong Gao (PhD), Zhenxiao Zhang (PhD), Yu Zhang (PhD), Rui Hu (PhD, graduated)
+- **Students:** Zhidong Gao (PhD, graduated), Zhenxiao Zhang (PhD), Yu Zhang (PhD, graduated), Rui Hu (PhD, graduated)
 
 ---
 
