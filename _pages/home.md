@@ -33,8 +33,8 @@ permalink: /
 
   <!--  <p> -->
   
-<!-- Assistant Professor<br> 
-Electrical and Computer Engineering<br>-->
+Associate Professor<br> 
+<!-- Electrical and Computer Engineering<br>-->
 Texas A&M University<br>
 Office: Discovery Tower 1531  <i class="fas fa-building"></i><br>
 Email: yanmin DOT gong AT tamu.edu <i class="fas fa-envelope"></i><br> 
