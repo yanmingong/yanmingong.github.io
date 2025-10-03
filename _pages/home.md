@@ -32,7 +32,6 @@ permalink: /
   <h1><strong>Yanmin Gong</strong></h1>
 
   <!--  <p> -->
-  
 Associate Professor<br> 
 <!-- Electrical and Computer Engineering<br>-->
 Texas A&M University<br>
