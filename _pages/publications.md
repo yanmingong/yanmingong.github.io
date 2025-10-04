@@ -8,13 +8,6 @@ permalink: /publications/
 
 
 <!-- ### Publications -->
-### Publications by Area (quick view)
-
-- **AI for Health:** CHASE’25 (MOUD dropout), JMIR’23 (mHealth), JHIR’24 (Fairness in FL for healthcare)
-- **Federated & Distributed Learning:** ICLR’22 (Spotlight), ICCV’23 (Workie-Talkie/FedCR), TVT’25 (Edge FL scheduling), INFOCOM’25 (Fed-tuning LLMs)
-- **Trustworthy AI:** TIFS’19 (DP-ADMM), TDSC’23 (Intrinsic privacy in wireless FL), ICC’25 (PFedSAM)
-- **Edge/Networking/Systems:** TMC’22 (Cooperative edge FL), TVT’24 (Multi-UAV MEC), TWC’23 (FD-DSA)
-- **Generative & FMs:** ICLR’24 (LyCORIS), INFOCOM’25 (Hetero-quantized + LoRA Fed-tuning)
 
 ### Selected Publications
 
