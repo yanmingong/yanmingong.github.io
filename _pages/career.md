@@ -31,7 +31,7 @@ These advances bridge wireless networking and modern ML to enable next-generatio
 
 ---
 
-## Selected Publications (2024–2025)
+### Selected Publications (2024–2025)
 
 - **PFedSAM: Secure Federated Learning Against Backdoor Attacks via Personalized Sharpness-Aware Minimization**  
   Z. Zhang, Y. Guo, Y. Gong. *IEEE ICC*, 2025.
@@ -72,13 +72,13 @@ These advances bridge wireless networking and modern ML to enable next-generatio
 
 ---
 
-## News & Updates
+### News & Updates
 - **2025:** INFOCOM’25 accepted paper on federated adaptive fine-tuning for LLMs.  
 - **2025:** ICC’25 accepted paper (PFedSAM) on secure FL against backdoor attacks.  
 - **2024–2025:** Multiple journal publications in *TMC*, *TVT*, *IoT-J*, and *TNSE*.
 
 ---
 
-## Contact
+### Contact
 - Email: **yanmin.gong@tamu.edu**  
 - GitHub: [@yanmingong](https://github.com/yanmingong) · Google Scholar · ORCID
