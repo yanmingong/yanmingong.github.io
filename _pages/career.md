@@ -70,8 +70,6 @@ These advances bridge wireless networking and modern ML to enable next-generatio
 - **Scalable and Low-Latency Federated Learning with Cooperative Mobile Edge Networking**  
   Z. Zhang, Z. Gao, Y. Guo, Y. Gong. *IEEE TMC*, in press/early access.
 
-> Tip: add `[PDF]`, `[arXiv]`, or `[DOI]` links next to each entry when available.
-
 ---
 
 ## News & Updates
