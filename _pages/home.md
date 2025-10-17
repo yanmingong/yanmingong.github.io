@@ -43,7 +43,7 @@ Email: yanmin DOT gong AT tamu.edu <i class="fas fa-envelope"></i><br>
 </header>
 
 ### Short Bio
-Yanmin Gong is an associate professor at Texas A&M University, where she directs the Trustworthy and Intelligent Networked Systems (TINS) Lab. She is a recipient of the  **<strong>NSF CAREER Award</strong>** and **<strong>CISCO Research Award</strong>**. She received a Ph.D. degree in electrical and computer engineering at the University of Florida, an M.S. degree in electronic engineering at Tsinghua University, and a B.E. degree in electronics and information engineering at Huazhong University of Science & Technology.
+Yanmin Gong is an associate professor at Texas A&M University, where she directs the HASH AI (Human-centered, Accessible, Safe AI with Health applications) Lab. She is a recipient of the  **<strong>NSF CAREER Award</strong>** and **<strong>CISCO Research Award</strong>**. She received a Ph.D. degree in electrical and computer engineering at the University of Florida, an M.S. degree in electronic engineering at Tsinghua University, and a B.E. degree in electronics and information engineering at Huazhong University of Science & Technology.
     
 ### Selected Honors and Awards
 - mHealth Scholar for NIH mHealth training institute, 2025
