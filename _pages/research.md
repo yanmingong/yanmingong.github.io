@@ -7,7 +7,7 @@ permalink: /research/
 ---
 
 ### Research Lab Info
-The Trustworthy and Intelligent Networked Systems (TINS) Lab at Texas A&M University, led by Dr. Yanmin Gong, is focused on in-depth understanding and fundamental design in security and privacy, machine learning, Internet of things, and wireless networks. Our research is motivated by the urgent need for secure, privacy-preserving, and intelligent solutions to allowing people to learn information as it was intended for and stopping people from learning information in ways it was not intended for in the big data and AI era. 
+The HASH AI (Human-centered, Accessible, Safe AI with Health applications) Lab at Texas A&M University, led by Dr. Yanmin Gong, is focused on in-depth understanding and fundamental design in security and privacy, machine learning, Internet of things, and wireless networks. Our research is motivated by the urgent need for secure, privacy-preserving, and intelligent solutions to allowing people to learn information as it was intended for and stopping people from learning information in ways it was not intended for in the big data and AI era. 
 
 <!-- ### Current Areas of Interest
 - Security and privacy for machine learning
