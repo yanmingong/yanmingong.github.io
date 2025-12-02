@@ -1,7 +1,7 @@
 ---
-title: "TINS Lab"
+title: "HASH Lab"
 layout: gridlay
-excerpt: "TINS Lab: Group members"
+excerpt: "HASH Lab: Group members"
 sitemap: false
 permalink: /team/
 ---
