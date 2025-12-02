@@ -21,17 +21,17 @@
 #   education3: 
 #   research: Internet of Things and Edge Computing
 
-- name: Zhenxiao Zhang
-  photo: Zhenxiao.jpg
-  info: PhD Student, started Fall 2020
-  email: hizxzhang@gmail.com
-  number_webpage: 1
-  webpage: https://zhen-xiao-zhang.github.io/
-  number_educ: 1
-  education1: B.S./M.S., East China University of Science and Technology
-  education2: 
-  education3:
-  research: Security and Privacy
+# - name: Zhenxiao Zhang
+#   photo: Zhenxiao.jpg
+#   info: PhD Student, started Fall 2020
+#   email: hizxzhang@gmail.com
+#   number_webpage: 1
+#   webpage: https://zhen-xiao-zhang.github.io/
+#   number_educ: 1
+#   education1: B.S./M.S., East China University of Science and Technology
+#   education2: 
+#   education3:
+#   research: Security and Privacy
 
 - name: Xiangxing Guo
   photo: Xiangxing.jpeg
