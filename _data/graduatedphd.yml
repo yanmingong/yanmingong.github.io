@@ -1,3 +1,16 @@
+- name: Zhenxiao Zhang
+  photo: Zhenxiao.jpg
+  initial_employment: Assistant Professor, Computer Science Engineering Department, Zhongnan University, Changsha, China
+  info: PhD, Fall 2025
+  email: hizxzhang@gmail.com
+  number_webpage: 1
+  webpage: https://zhen-xiao-zhang.github.io/
+  number_educ: 1
+  education1: B.S./M.S., East China University of Science and Technology
+  education2: 
+  education3:
+  research: Cybersecurity, Foundation Models, Edge Intelligence, and Trustworthy Artificial Intelligence
+  
 - name: Yu Zhang
   photo: Yu.jpg
   initial_employment: Assistant Professor, Mathematics & Computer Science Department, Fisk University, Nashville, Tennessee
@@ -9,7 +22,7 @@
   education1: B.S., Wuhan University of Technology
   education2: MIS, The University of Texas at Dallas
   education3: 
-  research: Internet of Things and Edge Computing
+  research: AI, Quantum, and Networking
 
 - name: Zhidong Gao
   photo: Zhidong.jpg
