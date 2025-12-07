@@ -33,7 +33,7 @@ permalink: /
 
   <!--  <p> -->
 Associate Professor, Engineering Medicine<br> 
-Affiliated Faculty, Computer Science<br> 
+Affiliated Faculty, Computer Science and Engineering<br> 
 Texas A&M University<br>
 
 Office: Discovery Tower 1531  <i class="fas fa-building"></i><br>
