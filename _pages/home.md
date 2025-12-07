@@ -46,7 +46,10 @@ Email: yanmin DOT gong AT tamu.edu <i class="fas fa-envelope"></i><br>
 
 ### Short Bio
 Yanmin Gong is an associate professor at Texas A&M University, where she directs the HASH AI (Human-centered, Accessible, Safe AI with Health applications) Lab. She is a recipient of the  **<strong>NSF CAREER Award</strong>** and **<strong>CISCO Research Award</strong>**. She received a Ph.D. degree in electrical and computer engineering at the University of Florida, an M.S. degree in electronic engineering at Tsinghua University, and a B.E. degree in electronics and information engineering at Huazhong University of Science & Technology.
-    
+
+### To prospective Ph.D. students
+I am recruiting Postdocs, graduate students, and remote interns. Research Assistantship (RA) positions will be offered to outstanding students who are hard-working and motivated. Interested candidates should email their CVs, transcripts, and brief research statements. 
+
 ### Selected Honors and Awards
 - mHealth Scholar for NIH mHealth training institute, 2025
 - Cisco Faculty Research Award, 2022
