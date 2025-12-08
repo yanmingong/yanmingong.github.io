@@ -36,7 +36,7 @@ Associate Professor, Engineering Medicine<br>
 Affiliated Faculty, Computer Science and Engineering<br> 
 Texas A&M University<br>
 
-Office: Discovery Tower 1531  <i class="fas fa-building"></i><br>
+Office: EnMed Tower 1531  <i class="fas fa-building"></i><br>
 Email: yanmin DOT gong AT tamu.edu <i class="fas fa-envelope"></i><br> 
   <p></p>
   <br>
