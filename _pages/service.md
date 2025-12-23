@@ -14,6 +14,7 @@ permalink: /service/
 
 #### Conference Organizing
 - Symposium Co-Chair, Communication and Information System Security, IEEE Global Communications Conference (GLOBECOM) 2026
+- Organizing Committee, Workshop for Generative AI for Smart and Connected Health, collocated with IEEE/ACM CHASE (Connected Health: Applications, Systems and Engineering Technologies)   
 - Registration Chair, 15th ACM Conference on Security and Privacy in Wireless and Mobile Networks (WiSec) 2022
 - Publication Chair, 16th EAI International Conference on Mobile and Ubiquitous Systems: Computing, Networking and Services (MobiQuitous) 2019
 - Organizing Committee, AI Summit at UT San Antonio 2019
