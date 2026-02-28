@@ -8,6 +8,9 @@ permalink: /teaching/
 <!-- <div class="well"> -->
 
 ### Courses
+### Texas A&M University
+- ITDE 612 Engineering Foundations in Medicine
+- ITDE 614 Journal Club for Engineering Innovation in Medicine
 
 #### The University of Texas at San Antonio
 - EE 3223: C++ and Data Structures, Fall 2021
