@@ -7,7 +7,7 @@ permalink: /research/
 ---
 
 ### Research Lab Info
-The HASH AI (Human-centered, Accessible, Safe AI with Health applications) Lab at Texas A&M University, led by Dr. Yanmin Gong, is focused on in-depth understanding and fundamental design in security and privacy, machine learning, Internet of things, and wireless networks. Our research is motivated by the urgent need for secure, privacy-preserving, and intelligent solutions to allowing people to learn information as it was intended for and stopping people from learning information in ways it was not intended for in the big data and AI era. 
+The HASH AI (Human-centered, Accessible, Safe AI with Health applications) Lab at the School of Engineering Medicine, Texas A&M University, led by Dr. Yanmin Gong, is dedicated to building safe, trustworthy, and human-centered AI systems that benefit people and society. Our research focuses on understanding and mitigating the risks of large language models and AI in high-stakes domains, ensuring that AI acts as intended, remains aligned with human values, and does no harm—particularly in health and clinical applications.
 
 <!-- ### Current Areas of Interest
 - Security and privacy for machine learning
