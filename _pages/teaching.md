@@ -11,7 +11,7 @@ permalink: /teaching/
 #### Texas A&M University
 - ITDE 612 Engineering Foundations in Medicine, Spring 2026
 - ITDE 614 Journal Club for Engineering Innovation in Medicine, Spring 2026
-- ITDE 641 Innovation Immersion in Engineering Design
+- ITDE 641 Innovation Immersion in Engineering Design, Spring 2026
 
 <!--#### The University of Texas at San Antonio
 - EE 3223: C++ and Data Structures, Fall 2021
