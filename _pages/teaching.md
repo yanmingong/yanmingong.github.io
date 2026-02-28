@@ -12,7 +12,7 @@ permalink: /teaching/
 - ITDE 612 Engineering Foundations in Medicine, Spring 2026
 - ITDE 614 Journal Club for Engineering Innovation in Medicine, Spring 2026
 
-#### The University of Texas at San Antonio
+<!-#### The University of Texas at San Antonio
 - EE 3223: C++ and Data Structures, Fall 2021
 - EE 5263: Cybersecurity and Data Science, Spring 2021, Spring 2022
 - EE 4673/EE 5283: Introduction to Computer Networks, Fall 2019 
@@ -21,3 +21,4 @@ permalink: /teaching/
 - ECEN/CS 4283: Computer Networks, Spring 2017, Spring 2018, Spring 2019
 - ENSC 3213: Computer-Based Systems, Fall 2018, Spring 2019
 - ECEN 5060: Security and Privacy in Big Data, Fall 2016, Fall 2017 
+-->
