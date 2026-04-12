@@ -13,6 +13,7 @@ permalink: /service/
 - Associate Editor, IEEE Wireless Communications, Jan. 2019 - present
 
 #### Conference Organizing
+- Area Chair, NeurIPS 2026
 - Symposium Co-Chair, Communication and Information System Security, IEEE Global Communications Conference (GLOBECOM) 2026
 - Organizing Committee, Workshop for Generative AI for Smart and Connected Health, collocated with IEEE/ACM CHASE (Connected Health: Applications, Systems and Engineering Technologies)   
 - Registration Chair, 15th ACM Conference on Security and Privacy in Wireless and Mobile Networks (WiSec) 2022
