@@ -44,16 +44,16 @@
   education3:
   research: AI for Health
 
-- name: Guohao Yang
-  photo: Guohao.jpg
-  info: PhD Student, started Spring 2024
-  email: guohao.yang@my.utsa.edu
-  number_webpage: 0
-  number_educ: 1
-  education1: M.S., Peking University
-  education2: 
-  education3:
-  research: Generative AI
+# - name: Guohao Yang
+#   photo: Guohao.jpg
+#   info: PhD Student, started Spring 2024
+#   email: guohao.yang@my.utsa.edu
+#   number_webpage: 0
+#   number_educ: 1
+#   education1: M.S., Peking University
+#   education2: 
+#   education3:
+#   research: Generative AI
 
 # - name: Junaid Khanh 
 #   photo: Junaid.png
