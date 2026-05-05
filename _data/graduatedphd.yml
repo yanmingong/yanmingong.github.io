@@ -7,10 +7,10 @@
   webpage: https://zhen-xiao-zhang.github.io/
   number_educ: 1
   education1: B.S./M.S., East China University of Science and Technology
-  education2: 
+  education2:
   education3:
   research: Cybersecurity, Foundation Models, Edge Intelligence, and Trustworthy Artificial Intelligence
-  
+
 - name: Yu Zhang
   photo: Yu.jpg
   initial_employment: Assistant Professor, Mathematics & Computer Science Department, Fisk University, Nashville, Tennessee
@@ -21,20 +21,20 @@
   number_educ: 2
   education1: B.S., Wuhan University of Technology
   education2: MIS, The University of Texas at Dallas
-  education3: 
+  education3:
   research: AI, Quantum, and Networking
 
 - name: Zhidong Gao
   photo: Zhidong.jpg
   initial_employment: Assistant Professor, Computer Science, Shanxi University, China
   email: zhidong.gao@my.utsa.edu
-  info: Ph.D., December 2024 
+  info: Ph.D., December 2024
   number_educ: 1
   education1: B.S., Chongqing University
-  education2: 
+  education2:
   education3:
   research: Machine Learning
-  
+
 - name: Rui Hu
   photo: hu.jpg
   initial_employment: Assistant Professor, Computer Science & Engineering, University of Nevada, Reno
@@ -45,41 +45,3 @@
   education2: Outstanding Ph.D. Dissertation Award
   education3:
   research: Security and Privacy
-
-# - name: Talha Khan
-#   photo: Talha.jpg
-#   info: B.S., May 2020
-#   email: talha0128@gmail.com
-#   number_educ: 1
-#   education1: Honorable Mention by NSF GRFP Fellowship
-#   initial_employment: Associate Product Manager at IBM
-
-# - name: Erick Galicia
-#   photo: Erick.jpg
-#   info: B.S., May 2021
-#   email: erickgalicia7@gmail.com
-#   number_educ: 0
-#   initial_employment: Systems Design Engineer at AMD
-
-# - name: Andy Hernandez
-#   photo: Andy.jpg
-#   info: B.S., May 2023
-#   email: xlm203@my.utsa.edu
-#   number_educ: 0
-#   initial_employment: Software Engineer at Dell 
-
-
-# - name: Mario Alday
-#   photo: Mario.png
-#   info: B.S., May 2022
-#   email: aldaymario25@gmail.com
-#   number_educ: 0
-#   initial_employment: C++ Developer at Amadeus
-
-# - name: Sheng Li
-#   photo: sheng.jpeg
-#   info: Master student
-#   email: sheng.li@my.utsa.edu
-#   number_educ: 0
-#   initial_employment: Tower Semiconductor
-
