@@ -1,22 +1,22 @@
-#- title: "IEEE Conference on Health Informatics (ICHI) 2026" 
-#  image: 
-#  description: 
-#  authors:
-#    Q. Zhang, Y. Guo, and Y. Gong
-#  link:
-#    url: 
-#    display: "Unifying Acoustic Features and Text with Multimodal LLMs for Neurodegenerative Screening"
-#  highlight: 0
+- title: "IEEE Conference on Health Informatics (ICHI) 2026" 
+ image: 
+ description: 
+ authors:
+   Q. Zhang, Y. Guo, and Y. Gong
+ link:
+   url: 
+   display: "Unifying Acoustic Features and Text with Multimodal LLMs for Neurodegenerative Screening"
+ highlight: 0
   
-#- title: "IEEE Conference on Health Informatics (ICHI) 2026" 
-#  image: 
-#  description: 
-#  authors:
-#    Y. Gao, Y. Gong, Y. Shi, and Y. Guo
-#  link:
-#    url: 
-#    display: "  LLM-Powered Personalized Glycemic Assessment in Type 2 Diabetes with Wearable Sensor Data"
-#  highlight: 0
+- title: "IEEE Conference on Health Informatics (ICHI) 2026" 
+ image: 
+ description: 
+ authors:
+   Y. Gao, Y. Gong, Y. Shi, and Y. Guo
+ link:
+   url: 
+   display: "  LLM-Powered Personalized Glycemic Assessment in Type 2 Diabetes with Wearable Sensor Data"
+ highlight: 0
 
 - title: "IEEE International Conference on Computer Communications (INFOCOM) 2026. (Acceptance ratio: 18.91%)" 
   image: 
