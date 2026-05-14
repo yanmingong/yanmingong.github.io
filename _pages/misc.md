@@ -46,29 +46,26 @@ permalink: /misc/
 
 ### Conference Deadlines
 <!-- - [VLDB 2021](http://vldb.org/pvldb/vol14-submission/), monthly deadline. -->
-- IEEE ICDCS 2024, abstract submission deadline: around January, 2024; full submission deadline: around Jan, 2024. 
-- IJCAI-PRICAI 2024, submission deadline: around January, 2024. Shanghai, China.
-- ICML 2024, abstract submission deadline: around January, 2024; full submission date: Jan, 2024. Vienna.
-- KDD 2024, submission deadline: around February, 2024.
-- Mobicom 2024, submission around August, 2023. 
-- MobiHoc, submission deadline around Mar 10, 2024.
-- [NDSS 2024](https://www.ndss-symposium.org/ndss2024/submissions/call-for-papers/), summer submission deadline: 19 Apr 2023. San Diego, CA.
-- [IEEE Symposium on Security and Privacy 2024](https://sp2024.ieee-security.org/), first submission deadline: April 13, 2023.
-- [CIKM 2023](https://cikm2023.github.io/), abstract: May 26, 2023, full paper paper: June 2, 2023. Birmingham, UK.
-- [NeurIPS 2023](https://nips.cc/), abstract due: May 11, 2023; paper due: May 17, 2023. New Orleans.
-- [ACM CCS 2023](https://www.sigsac.org/ccs/CCS2023/call-for-paper.html), second submission deadline: May 4th, 2023. Copenhagen, Denmark.
-- [Usenix Security 2024](https://www.usenix.org/conference/usenixsecurity24), summer submissions due: June 6, 2023. Philadephia, PA.
-- [ACSAC 2023](https://www.acsac.org/2023/submissions/papers/), abstract submission: May 22, 2023. full paper submission: May 26, 2023. Austin, TX, USA. 
-- [ICDM 2023](http://www.cloud-conf.net/icdm2023/index.html), submission: Jul 1, 2023. Shanghai, China. Hybrid.
-- [NDSS 2024](https://www.ndss-symposium.org/ndss2024/submissions/call-for-papers/), fall submission deadline: 28 Jun 2023. San Diego, CA.
-- [AsiaCCS 2024](https://asiaccs2024.sutd.edu.sg/dates/), first deadline: 21 August 2023. Singapore.
-- [IEEE Symposium on Security and Privacy 2024](https://sp2024.ieee-security.org/), second submission deadline: August 3, 2023. 
-- [Usenix Security 2024](https://www.usenix.org/conference/usenixsecurity24), fall submissions due: October 17, 2023. Philadephia, PA.
-- IEEE Infocom 2024, submission deadline: around July, 2023. 
-- AAAI 2024, around August, 2023.
-- ICLR 2024, deadline: around Sept, 2023. Vienna, Austria, Europe.
-- The Web Conference (formerly International World Wide Web Conference), submission deadline: around Oct. 2023. Singapore.
-- [AsiaCCS 2024](https://asiaccs2024.sutd.edu.sg/dates/), second deadline: 7 December 2023. Singapore.
+- [NeurIPS 2026](https://neurips.cc/Conferences/2026/CallForPapers), abstract: May 4, 2026; full paper: May 6, 2026. Sydney, Australia.
+- [CIKM 2026](https://cikm2026.diag.uniroma1.it/), abstract: May 16, 2026; full paper: May 23, 2026. Rome, Italy.
+- [ACSAC 2026](https://www.acsac.org/2026/submissions/papers/), submission deadline: May 26, 2026. Los Angeles, CA, USA.
+- [PETS 2027](https://www.petsymposium.org/cfp27.php), first quarterly deadline: May 31, 2026 (rolling every quarter).
+- [IEEE Symposium on Security and Privacy 2027](https://sp2027.ieee-security.org/), first submission deadline: June 11, 2026; second submission deadline: November 17, 2026. Quebec, Canada.
+- [ICDM 2026](http://icdm2026.neu.edu.cn/), research track submission: around June, 2026; applied/demo track: August 20, 2026. Shenyang, China.
+- [IEEE INFOCOM 2027](https://infocom2026.ieee-infocom.org/), abstract: July 17, 2026; full paper: July 24, 2026. Honolulu, Hawaii.
+- [KDD 2027](https://kdd2026.kdd.org/), first submission cycle deadline: around July, 2026; second submission cycle deadline: around February, 2027.
+- [NDSS 2027](https://www.ndss-symposium.org/ndss2027/submissions/call-for-papers/), summer submission deadline: May 6, 2026; fall submission deadline: August 19, 2026. Seoul, South Korea.
+- [AsiaCCS 2027](https://asiaccs2027.cityu.edu.mo/home/index.html), first deadline: August 21, 2026; second deadline: December 11, 2026. Macau.
+- [USENIX Security 2027](https://www.usenix.org/conference/usenixsecurity27), summer submissions due: August 25, 2026; fall submissions due: January 26, 2027. Denver, CO.
+- MobiCom 2027, first submission cycle deadline: around September, 2026.
+- ICLR 2027, deadline: around September, 2026.
+- The Web Conference 2027, submission deadline: around October, 2026. Dublin, Ireland.
+- ACM CCS 2027, first submission deadline: around January, 2027; second submission deadline: around April, 2027.
+- ICML 2027, abstract submission deadline: around January, 2027; full submission deadline: around January, 2027.
+- IJCAI 2027, submission deadline: around January, 2027.
+- IEEE ICDCS 2027, submission deadline: around January, 2027.
+- MobiHoc 2027, submission deadline: around March, 2027.
+- AAAI 2027, abstract: around July, 2026; full paper: around August, 2026.
 <!-- - [ACM WiSec 2022](https://petsymposium.org/index.php), submission deadline: March 1, 2018.  -->
 <!-- - EAI SecureComm, submission deadline: April 3, 2022.  -->
 <!-- - [IEEE ICNP 2023](https://icnp23.cs.ucr.edu/cfp.html), submission deadline: May 24, 2023. Reykjavík, Iceland. -->
