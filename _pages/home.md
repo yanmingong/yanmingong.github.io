@@ -33,7 +33,8 @@ permalink: /
 
   <!--  <p> -->
 Associate Professor, Engineering Medicine<br> 
-Joint/Affiliated Faculty in Electrical and Computer Engineering and Computer Science and Engineering<br> 
+Affiliated Faculty, Computer Science and Engineering<br> 
+Affiliated Faculty, Electrical and Computer Engineering<br>
 Texas A&M University<br>
 
 Office: EnMed Tower 1531  <i class="fas fa-building"></i><br>
