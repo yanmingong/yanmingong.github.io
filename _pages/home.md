@@ -33,6 +33,7 @@ permalink: /
 
   <!--  <p> -->
 Associate Professor, Engineering Medicine<br> 
+Joint Appointment, Electrical and Computer Engineering<br>
 Affiliated Faculty, Computer Science and Engineering<br> 
 Texas A&M University<br>
 
