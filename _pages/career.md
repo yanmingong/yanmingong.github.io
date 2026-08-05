@@ -44,25 +44,11 @@ These advances bridge wireless networking and modern ML to enable next-generatio
 - **Online Client Scheduling and Resource Allocation for Efficient Federated Edge Learning**  
   Y. Zhang, Z. Gao, Z. Zhang, T. Wang, Y. Gong, Y. Guo. *IEEE Trans. Vehicular Technology (TVT)*, 2025.
 
+### Earlier Representative Publications
 - **Heterogeneity-Aware Cooperative Federated Edge Learning with Adaptive Computation and Communication Compression**  
   Z. Zhang, Z. Gao, Y. Guo, Y. Gong. *IEEE Trans. Mobile Computing (TMC)*, 2024.
-
 - **REWAFL: Residual Energy and Wireless Aware Participant Selection for Efficient Federated Learning over Mobile Devices**  
   Y. Li, X. Qin, J. Geng, R. Chen, Y. Hou, Y. Gong, M. Pan, P. Zhang. *IEEE TMC*, 2024.
-
-- **Quantum-Assisted Joint Virtual Network Function Deployment and Maximum Flow Routing for Space Information Networks**  
-  Y. Zhang, Y. Gong, L. Fan, Y. Wang, Z. Han, Y. Guo. *IEEE TMC*, 2024.
-
-- **Quantum-Assisted Online Task Offloading and Resource Allocation in MEC-Enabled Satellite-Aerial-Terrestrial Integrated Networks**  
-  Y. Zhang, Y. Gong, L. Fan, Y. Wang, Z. Han, Y. Guo. *IEEE TMC*, 2024.
-
-- **Quantum-Assisted Joint Caching and Power Allocation for Integrated Satellite-Terrestrial Networks**  
-  Y. Zhang, Y. Gong, L. Fan, Y. Wang, Z. Han, Y. Guo. *IEEE Trans. Network Science and Engineering (TNSE)*, 2024.
-
-- **DAFL: Device-to-Device Transmissions for Delay-Efficient Federated Learning over Mobile Devices**  
-  H. Su, P. Prakkash, R. Chen, Y. Gong, R. Yu, X. Fu, M. Pan. *IEEE Internet of Things Journal (IoT-J)*, 2024.
-
-### Earlier Representative Publications
 - **Hybrid Local SGD for Federated Learning with Heterogeneous Communications**  
   Y. Guo, Y. Sun, R. Hu, Y. Gong. *ICLR*, 2022.  
 - **Concentrated Differentially Private Federated Learning with Performance Analysis**  
@@ -75,6 +61,7 @@ These advances bridge wireless networking and modern ML to enable next-generatio
 ---
 
 ### News & Updates
+- **2026:** INFOCOM’26 accepted paper on efficient federated fine-tuning for LLMs.  
 - **2025:** INFOCOM’25 accepted paper on federated adaptive fine-tuning for LLMs.  
 - **2025:** ICC’25 accepted paper (PFedSAM) on secure FL against backdoor attacks.  
 - **2024–2025:** Multiple journal publications in *TMC*, *TVT*, *IoT-J*, and *TNSE*.
