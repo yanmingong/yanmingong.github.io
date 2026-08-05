@@ -9,7 +9,7 @@ permalink: /career/
 ## NSF CAREER: Ubiquitous & Time-Critical Federated Learning via Cooperative Mobile Edge Networking
 
 **Award:** [NSF CNS-2047761](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2047761)  
-**Period:** Oct 1, 2021 – Sep 30, 2026
+**Period:** Oct 1, 2021 – Sep 30, 2027
 
 ### Project Overview
 We develop a federated learning (FL) framework leveraging cooperative mobile edge networking to support distributed IoT data with **high accuracy**, **low latency**, and **rigorous privacy guarantees**. The project advances:
@@ -27,7 +27,7 @@ These advances bridge wireless networking and modern ML to enable next-generatio
 
 ### People
 - **PI:** Yanmin Gong  
-- **Students:** Zhidong Gao (PhD, graduated), Zhenxiao Zhang (PhD), Yu Zhang (PhD, graduated), Rui Hu (PhD, graduated)
+- **Students:** Zhidong Gao (PhD, graduated), Zhenxiao Zhang (PhD, graduated), Yu Zhang (PhD, graduated), Rui Hu (PhD, graduated), Xiangxing Guo (PhD)
 
 ---
 
