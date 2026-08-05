@@ -31,7 +31,9 @@ These advances bridge wireless networking and modern ML to enable next-generatio
 
 ---
 
-### Selected Publications (2024–2025)
+### Selected Publications (2025–2026)
+- **FedKRSO: Communication and Memory Efficient Federated Fine-Tuning of Large Language Models**
+  G. Yang, T. Wu, Y. Guo, Y. Sun, Y. Gong. *IEEE INFOCOM*, 2026
 
 - **PFedSAM: Secure Federated Learning Against Backdoor Attacks via Personalized Sharpness-Aware Minimization**  
   Z. Zhang, Y. Guo, Y. Gong. *IEEE ICC*, 2025.
