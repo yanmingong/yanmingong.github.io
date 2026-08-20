@@ -28,15 +28,17 @@ We are grateful for funding from National Science Foundation, NIH, CISCO, Air Fo
 </figure></center>
 
 #### Active Projects
-- Enhancing Equity in Opioid Medication Treatment: Confronting Disparities and Biases for Medicaid Beneficiaries with Responsive Machine Learning, NIH AIM-AHEAD, 09/17/2023 - 09/16/2025, Lead PI.
-
-- Across Hospitals and Devices: Collaborative Stroke Risk Prediction via Federated Learning, CISCO Research, 06/01/2023 - 05/31/2024, Sole PI.
+- Collaborative Research: A Subspace Optimization Framework for Resource-Efficient and Private Fine-Tuning of Large Language Models，01/01/2027 - 12/31/2029, National Science Foundation, PI.
 
 - CAREER: Ubiquitous and Time-Critical Federated Learning with Cooperative Mobile Edge Networking ([project webpage](https://yanmingong.github.io/career)), National Science Foundation, 10/01/2021 - 09/30/2026, Sole PI.
 
 - Collaborative Research: CNS Core: Medium: Towards Federated Learning over 5G Mobile Devices: High Efficiency, Low Latency, and Good Privacy, National Science Foundation, 10/01/2021 - 09/30/2025, Co-PI. 
 
 #### Completed Projects
+- Enhancing Equity in Opioid Medication Treatment: Confronting Disparities and Biases for Medicaid Beneficiaries with Responsive Machine Learning, NIH AIM-AHEAD, 09/17/2023 - 09/16/2025, Lead PI.
+
+- Across Hospitals and Devices: Collaborative Stroke Risk Prediction via Federated Learning, CISCO Research, 06/01/2023 - 05/31/2024, Sole PI.
+
 - CRII: NeTS: Embracing Dynamic Spectrum Sharing without Privacy Concerns ([project webpage](https://yanmingong.github.io/crii)), National Science Foundation, 10/01/2019 - 09/30/2023, Sole PI.
 
 - GREAT: Regional Natural Hazard Risk Assessment Methodology toward Resilient 5G Telecommunication Infrastructure Deployment, the Office of the Vice President for Research, Economic Development, and Knowledge Enterprise (VPREDKE) at UTSA, 10/01/2021 - 07/31/2022, Co-PI.
