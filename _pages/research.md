@@ -32,7 +32,7 @@ We are grateful for funding from National Science Foundation, NIH, CISCO, Air Fo
 
 - CAREER: Ubiquitous and Time-Critical Federated Learning with Cooperative Mobile Edge Networking ([project webpage](https://yanmingong.github.io/career)), National Science Foundation, 10/01/2021 - 09/30/2026, Sole PI.
 
-- Collaborative Research: CNS Core: Medium: Towards Federated Learning over 5G Mobile Devices: High Efficiency, Low Latency, and Good Privacy, National Science Foundation, 10/01/2021 - 09/30/2025, Co-PI. 
+- Collaborative Research: CNS Core: Medium: Towards Federated Learning over 5G Mobile Devices: High Efficiency, Low Latency, and Good Privacy, National Science Foundation, 10/01/2021 - 09/30/2027, Co-PI. 
 
 #### Completed Projects
 - Enhancing Equity in Opioid Medication Treatment: Confronting Disparities and Biases for Medicaid Beneficiaries with Responsive Machine Learning, NIH AIM-AHEAD, 09/17/2023 - 09/16/2025, Lead PI.
