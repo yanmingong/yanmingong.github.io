@@ -33,6 +33,17 @@
 #   education3:
 #   research: Security and Privacy
 
+- name: Chenlang Yi
+  photo: ChenlangYi.jpg
+  info: PhD Student, started Fall 2026 (Co-Advised with Dr. Tianbao Yang)
+  email: baileyyeah@tamu.edu
+  number_webpage: 0
+  number_educ: 1
+  education1: 
+  education2: 
+  education3:
+  research: AI for Health
+  
 - name: Xiangxing Guo
   photo: Xiangxing.jpeg
   info: PhD Student, started Fall 2023
