@@ -29,6 +29,7 @@ We are grateful for funding from National Science Foundation, NIH, CISCO, Air Fo
 
 #### Active Projects
 - Collaborative Research: A Subspace Optimization Framework for Resource-Efficient and Private Fine-Tuning of Large Language Models，01/01/2027 - 12/31/2029, National Science Foundation, PI.
+  
 - AI-Enabled Cancer Grading Using a New Morphological Biomarker，10/01/2026 – 09/30/2027, Texas A&M University System Research Excellence Fund, Co-PI.
 
 - CAREER: Ubiquitous and Time-Critical Federated Learning with Cooperative Mobile Edge Networking ([project webpage](https://yanmingong.github.io/career)), National Science Foundation, 10/01/2021 - 09/30/2026, Sole PI.
