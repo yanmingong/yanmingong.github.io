@@ -35,8 +35,9 @@ permalink: /
 Associate Professor, Engineering Medicine<br> 
 Affiliated Faculty, Electrical and Computer Engineering<br>
 Affiliated Faculty, Computer Science and Engineering<br> 
-Adjunct Associate Professor of Medicine, Houston Methodist Academic Institute (HMAI)<br> 
 Texas A&M University<br>
+Adjunct Associate Professor of Medicine<br>  
+Houston Methodist Academic Institute (HMAI)<br> 
 
 Office: EnMed Tower 1531  <i class="fas fa-building"></i><br>
 Email: yanmin DOT gong AT tamu.edu <i class="fas fa-envelope"></i><br> 
