@@ -39,7 +39,7 @@ Texas A&M University<br>
 Adjunct Associate Professor of Medicine<br>  
 Houston Methodist Academic Institute (HMAI)<br> 
 
-Office: EnMed Tower 1531  <i class="fas fa-building"></i><br>
+Office: Discovery Tower 1531  <i class="fas fa-building"></i><br>
 Email: yanmin DOT gong AT tamu.edu <i class="fas fa-envelope"></i><br> 
   <p></p>
   <br>
