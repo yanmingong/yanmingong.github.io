@@ -37,7 +37,7 @@ Affiliated Faculty, Electrical and Computer Engineering<br>
 Affiliated Faculty, Computer Science and Engineering<br> 
 Texas A&M University<br>
 Test<br>
-Adjunct Associate Professor of Medicine<br>  
+Adjunct Associate Professor of Medicine<br>
 Houston Methodist Academic Institute (HMAI)<br> 
 
 Office: Discovery Tower 1531  <i class="fas fa-building"></i><br>
