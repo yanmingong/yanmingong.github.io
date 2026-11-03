@@ -35,6 +35,7 @@ permalink: /
 Associate Professor, Engineering Medicine<br> 
 Affiliated Faculty, Electrical and Computer Engineering<br>
 Affiliated Faculty, Computer Science and Engineering<br> 
+Adjunct Associate Professor of Medicine, Houston Methodist Academic Institute (HMAI)<br> 
 Texas A&M University<br>
 
 Office: EnMed Tower 1531  <i class="fas fa-building"></i><br>
